@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS" tvg-logo="" group-title="BEIN SPORTS",AR | BEIN SPORTS
 http://185.134.22.150:8080/jokertv/streaming@2021/58952
 #EXTINF:-1 tvg-id="beIN_Sports1_Premium.bi-en" tvg-name="AR | BEIN SPORTS 01" tvg-logo="http://starsat123.com:8080/images/e5dfe186dadd27aa4c662fca82522092.png" group-title="BEIN SPORTS",AR | BEIN SPORTS 01
@@ -134,28 +132,6 @@ http://185.134.22.150:8080/jokertv/streaming@2021/59058
 http://185.134.22.150:8080/jokertv/streaming@2021/59060
 #EXTINF:-1 tvg-id="" tvg-name="CA | PALM SPRINGS TELEMUNDO PALM SPRINGS" tvg-logo="https://cdn.diablo.ltd/logos/CAPalmSpringsTelemundoPalmSpringsUS.png" group-title="LATINO LOCAL NETWORKS",CA | PALM SPRINGS TELEMUNDO PALM SPRINGS
 http://185.134.22.150:8080/jokertv/streaming@2021/61705
-#EXTINF:-1 tvg-id="nbckmir.us" tvg-name="CA | PALM SPRINGS | NBC KMIR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/KMIR-TV_36_NBC_Palm_Springs.svg/revision/latest/scale-to-width-down/225?cb=20180918234928" group-title="NBC LOCAL NETWORKS",CA | PALM SPRINGS | NBC KMIR
-http://185.134.22.150:8080/jokertv/streaming@2021/31915
-
-#EXTINF:-1 tvg-id="CAAJ3489L" tvg-name="CA | PEOPLE ARE AWESOME" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/55/CAAJ34000089L_20210525T053257.png" group-title="SAMSUNG",CA | PEOPLE ARE AWESOME
-https://c39d19b6c720488ba741c4d6e725ebcd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel%3D386%26ads.wurl_name%3DPeopleAreAwesome%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1 tvg-id="CABA86WP" tvg-name="CA | PLAYERSTV" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/77/CABA800006WP_20210525T053248.png" group-title="SAMSUNG",CA | PLAYERSTV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-playerstv-samsungtv-ca/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.us_privacy%3D%7BUS_PRIVACY%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1 tvg-id="CAAJ2726RD" tvg-name="CA | POWERNATION" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/10/CAAJ2700026RD_20210525T053314.png" group-title="SAMSUNG",CA | POWERNATION
-https://4e89128190694409aeeeaf4469fd6953.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_RTMTVChannel/playlist.m3u8?ads.wurl_channel%3D177%26ads.wurl_name%3DRTMTVChannel%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0
-#EXTINF:-1 tvg-id="" tvg-name="CA | PRISE 2 (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Prise_2_logo_%282018%29.svg/1280px-Prise_2_logo_%282018%29.svg.png" group-title="CANADA FRENCH",CA | PRISE 2 (FR)
-http://185.134.22.150:8080/jokertv/streaming@2021/11472
-#EXTINF:-1 tvg-id="CAAJ174F" tvg-name="CA | RADIO-CANADA.CA" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/36/CAAJ17000040F_20210525T053230.png" group-title="SAMSUNG",CA | RADIO-CANADA.CA
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_radiocanada_001.m3u8?ads.caid%3DRadioCanada%26ads.csid%3Dsamsungtvplus_ca_radiocanada_ssai%26ads.xumo_platform%3Dsamsung%26ads._fw_is_lat%3D%7BTARGETOPT%7D%26ads._fw_coppa%3D0%26ads._fw_did%3D%7BPSID%7D%26ads._fw_content_category%3DIAB12%26ads._fw_content_genre%3Dnews%26ads._fw_content_language%3Dfr%2Cfr-CA%2Cen%26ads._fw_content_rating%3Dtv-g%26ads._fw_deviceMake%3Dsamsung%26ads._fw_gdpr%3D0%26ads.appName%3D%7BAPP_NAME%7D%26ads.xumo_contentId%3D208%26ads.xumo_contentName%3DCBCNewsFrench%26ads.xumo_providerId%3D208%26ads.xumo_providerName%3DCBCNewsFrench%26ads.xumo_channelId%3D9991504%26ads.xumo_adsystem%3Dmediatailor%26ads.tpcl%3DMIDROLL%26ads._fw_app_store_url%3D%7BAPP_DOMAIN%7D
-#EXTINF:-1 tvg-id="" tvg-name="CA | RDS (FR)" tvg-logo="https://img0cf.b8cdn.com/images/logo/51/2026851_logo_1545637000_n.png" group-title="CANADA FRENCH",CA | RDS (FR)
-http://185.134.22.150:8080/jokertv/streaming@2021/11473
-#EXTINF:-1 tvg-id="" tvg-name="CA | RDS 2 (FR)" tvg-logo="https://img0cf.b8cdn.com/images/logo/51/2026851_logo_1545637000_n.png" group-title="CANADA FRENCH",CA | RDS 2 (FR)
-http://185.134.22.150:8080/jokertv/streaming@2021/11474
-#EXTINF:-1 tvg-id="" tvg-name="CA | RDS INFO (FR)" tvg-logo="https://img0cf.b8cdn.com/images/logo/51/2026851_logo_1545637000_n.png" group-title="CANADA FRENCH",CA | RDS INFO (FR)
-http://185.134.22.150:8080/jokertv/streaming@2021/11477
-#EXTINF:-1 tvg-id="PBS.(KIXE).Redding,.CA.HD.us" tvg-name="CA | REDDING PBS KIXE" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="USA LOCAL NETWORKS",CA | REDDING PBS KIXE
-http://185.134.22.150:8080/jokertv/streaming@2021/59304
-
 
 #EXTINF:-1 tvg-id="" tvg-name="CA | SACRAMENTO TELEMUNDO" tvg-logo="https://cdn.diablo.ltd/logos/CASacramentoTelemundoUS.png" group-title="LATINO LOCAL NETWORKS",CA | SACRAMENTO TELEMUNDO
 http://185.134.22.150:8080/jokertv/streaming@2021/61706
