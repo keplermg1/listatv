@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="LA | (ARG) AMERICA TV" tvg-logo="https://i.pinimg.com/originals/43/a1/1a/43a11adc24087c42eda2d3b4c19d159b.png" group-title="LATINO",LA | (ARG) AMERICA TV
 http://185.134.22.150:8080/jokertv/streaming@2021/38532
 #EXTINF:-1 tvg-id="" tvg-name="LA | (ARG) C5N" tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="LATINO",LA | (ARG) C5N
@@ -449,14 +449,440 @@ http://185.134.22.150:8080/jokertv/streaming@2021/38822
 http://185.134.22.150:8080/jokertv/streaming@2021/38828
 #EXTINF:-1 tvg-id="SHOxBET.us" tvg-name="LA | SHOWTIME BEYOND" tvg-logo="https://www.thewrap.com/wp-content/uploads/2015/01/showtime_logo.jpg" group-title="LATINO",LA | SHOWTIME BEYOND
 http://185.134.22.150:8080/jokertv/streaming@2021/38826
+#EXTINF:-1 tvg-id="" tvg-name="LA | (ARG) AMERICA TV" tvg-logo="https://i.pinimg.com/originals/43/a1/1a/43a11adc24087c42eda2d3b4c19d159b.png" group-title="LATINO",LA | (ARG) AMERICA TV
+http://185.134.22.150:8080/jokertv/streaming@2021/38532
+#EXTINF:-1 tvg-id="" tvg-name="LA | (ARG) C5N" tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="LATINO",LA | (ARG) C5N
+http://185.134.22.150:8080/jokertv/streaming@2021/38551
+#EXTINF:-1 tvg-id="" tvg-name="LA | (ARG) CANAL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png" group-title="LATINO",LA | (ARG) CANAL 4
+http://185.134.22.150:8080/jokertv/streaming@2021/38858
+#EXTINF:-1 tvg-id="" tvg-name="LA | (ARG) EL TRECE" tvg-logo="" group-title="LATINO",LA | (ARG) EL TRECE
+http://185.134.22.150:8080/jokertv/streaming@2021/62201
+#EXTINF:-1 tvg-id="" tvg-name="LA | (ARG) ESPN EXTRA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/ESPNExtra2013.png/revision/latest/scale-to-width-down/200?cb=20200127200506" group-title="LATINO",LA | (ARG) ESPN EXTRA
+http://185.134.22.150:8080/jokertv/streaming@2021/62244
+#EXTINF:-1 tvg-id="" tvg-name="LA | (ARG) FOX SPORTS PREMIUM" tvg-logo="" group-title="LATINO",LA | (ARG) FOX SPORTS PREMIUM
+http://185.134.22.150:8080/jokertv/streaming@2021/47169
+#EXTINF:-1 tvg-id="" tvg-name="LA | (ARG) TELEFE" tvg-logo="" group-title="LATINO",LA | (ARG) TELEFE
+http://185.134.22.150:8080/jokertv/streaming@2021/62202
+#EXTINF:-1 tvg-id="Telered21.hn" tvg-name="LA | (ARG) TELERED" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="LATINO",LA | (ARG) TELERED
+http://185.134.22.150:8080/jokertv/streaming@2021/38618
+#EXTINF:-1 tvg-id="" tvg-name="LA | (ARG) TV PUBLICA" tvg-logo="https://cdn.mercosat.org/sinatar/inedito/fotos/archivo/tv%20publica.JPG" group-title="LATINO",LA | (ARG) TV PUBLICA
+http://185.134.22.150:8080/jokertv/streaming@2021/38889
+#EXTINF:-1 tvg-id="" tvg-name="LA | (BOL) TIGO SPORTS 1" tvg-logo="https://www.millicom.com/media/3214/tigo-sports-png_tigosports.png" group-title="LATINO",LA | (BOL) TIGO SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/38878
+#EXTINF:-1 tvg-id="" tvg-name="LA | (BOL) TIGO SPORTS 3" tvg-logo="https://www.millicom.com/media/3214/tigo-sports-png_tigosports.png" group-title="LATINO",LA | (BOL) TIGO SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38879
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="LA | (CHL) CANAL 13" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LATINO",LA | (CHL) CANAL 13
+http://185.134.22.150:8080/jokertv/streaming@2021/38560
+#EXTINF:-1 tvg-id="Chile|| CHILEVISION :)" tvg-name="LA | (CHL) CHILE VISION" tvg-logo="https://www.chilevision.cl/chilevision/imag/default/default_450x574.png" group-title="LATINO",LA | (CHL) CHILE VISION
+http://185.134.22.150:8080/jokertv/streaming@2021/38576
+#EXTINF:-1 tvg-id="" tvg-name="LA | (CHL) TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg/1024px-Televisi%C3%B3n_Nacional_de_Chile_wordmark.svg.png" group-title="LATINO",LA | (CHL) TVN
+http://185.134.22.150:8080/jokertv/streaming@2021/43445
+#EXTINF:-1 tvg-id="pasiones.co" tvg-name="LA | (COL) PASIONES" tvg-logo="https://lodehoy166.files.wordpress.com/2017/06/pasiones-nuevo-logo-2015.jpg" group-title="LATINO",LA | (COL) PASIONES
+http://185.134.22.150:8080/jokertv/streaming@2021/38806
+#EXTINF:-1 tvg-id="" tvg-name="LA | (CRI) CANAL 14" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LATINO",LA | (CRI) CANAL 14
+http://185.134.22.150:8080/jokertv/streaming@2021/38620
+#EXTINF:-1 tvg-id="" tvg-name="LA | (CRI) FUTV" tvg-logo="https://icdn2.crhoy.net/w/600/h/450/q/95/png/0/c/1/s/pull.crhoy.net/imagenes/2020/01/futv.png" group-title="LATINO",LA | (CRI) FUTV
+http://185.134.22.150:8080/jokertv/streaming@2021/48278
+#EXTINF:-1 tvg-id="" tvg-name="LA | (CRI) REPRETEL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Repretel.png" group-title="LATINO",LA | (CRI) REPRETEL 11
+http://185.134.22.150:8080/jokertv/streaming@2021/38623
+#EXTINF:-1 tvg-id="" tvg-name="LA | (CRI) REPRETEL 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LATINO",LA | (CRI) REPRETEL 4
+http://185.134.22.150:8080/jokertv/streaming@2021/38621
+#EXTINF:-1 tvg-id="" tvg-name="LA | (CRI) REPRETEL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Repretel.png" group-title="LATINO",LA | (CRI) REPRETEL 6
+http://185.134.22.150:8080/jokertv/streaming@2021/38622
+#EXTINF:-1 tvg-id="" tvg-name="LA | (CRI) TD+" tvg-logo="" group-title="LATINO",LA | (CRI) TD+
+http://185.134.22.150:8080/jokertv/streaming@2021/54313
+#EXTINF:-1 tvg-id="Teletica7.cr" tvg-name="LA | (CRI) TELETICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="LATINO",LA | (CRI) TELETICA
+http://185.134.22.150:8080/jokertv/streaming@2021/38876
+#EXTINF:-1 tvg-id="~ HD TP CANAL Once" tvg-name="LA | (GTM) CANAL 11" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LATINO",LA | (GTM) CANAL 11
+http://185.134.22.150:8080/jokertv/streaming@2021/38719
+#EXTINF:-1 tvg-id="" tvg-name="LA | (GTM) CANAL 13" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LATINO",LA | (GTM) CANAL 13
+http://185.134.22.150:8080/jokertv/streaming@2021/38720
+#EXTINF:-1 tvg-id="" tvg-name="LA | (GTM) CANAL 3" tvg-logo="https://4.bp.blogspot.com/-0gT7d4OA5As/WdZ8w_VBctI/AAAAAAAAARY/O5kGiFnVJvY7W1H2ixfliUmT5RNZhdQcACLcBGAs/w1200-h630-p-k-no-nu/Canal-3-Guatemala.png" group-title="LATINO",LA | (GTM) CANAL 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38717
+#EXTINF:-1 tvg-id="" tvg-name="LA | (GTM) CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Televisiete.png" group-title="LATINO",LA | (GTM) CANAL 7
+http://185.134.22.150:8080/jokertv/streaming@2021/38718
+#EXTINF:-1 tvg-id="" tvg-name="LA | (GTM) CANAL ANTIGUA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LATINO",LA | (GTM) CANAL ANTIGUA
+http://185.134.22.150:8080/jokertv/streaming@2021/38721
+#EXTINF:-1 tvg-id="" tvg-name="LA | (GTM) GUATEVISION" tvg-logo="https://www.dealood.com/content/uploads/images/March2019/Guatevision-670x300-medium.jpg" group-title="LATINO",LA | (GTM) GUATEVISION
+http://185.134.22.150:8080/jokertv/streaming@2021/38722
+#EXTINF:-1 tvg-id="" tvg-name="LA | (HON) CAMPUS TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/campus_tv_ro.jpg" group-title="LATINO",LA | (HON) CAMPUS TV
+http://185.134.22.150:8080/jokertv/streaming@2021/41452
+#EXTINF:-1 tvg-id="" tvg-name="LA | (HON) CANAL 5" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal5_el_lider.jpg" group-title="LATINO",LA | (HON) CANAL 5
+http://185.134.22.150:8080/jokertv/streaming@2021/41457
+#EXTINF:-1 tvg-id="" tvg-name="LA | (HON) HCH" tvg-logo="" group-title="LATINO",LA | (HON) HCH
+http://185.134.22.150:8080/jokertv/streaming@2021/41449
+#EXTINF:-1 tvg-id="" tvg-name="LA | (HON) MAYA TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/maya_tv.jpg" group-title="LATINO",LA | (HON) MAYA TV
+http://185.134.22.150:8080/jokertv/streaming@2021/41450
+#EXTINF:-1 tvg-id="" tvg-name="LA | (HON) MEGA TV" tvg-logo="" group-title="LATINO",LA | (HON) MEGA TV
+http://185.134.22.150:8080/jokertv/streaming@2021/41458
+#EXTINF:-1 tvg-id="" tvg-name="LA | (HON) TELECEIBA 7" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/teleceiba.jpg" group-title="LATINO",LA | (HON) TELECEIBA 7
+http://185.134.22.150:8080/jokertv/streaming@2021/41456
+#EXTINF:-1 tvg-id="" tvg-name="LA | (HON) TELEPROGRESO" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tele_progreso_continental.jpg" group-title="LATINO",LA | (HON) TELEPROGRESO
+http://185.134.22.150:8080/jokertv/streaming@2021/41451
+#EXTINF:-1 tvg-id="" tvg-name="LA | (HON) UNE TV" tvg-logo="https://i.imgur.com/rRXm5nY.png" group-title="LATINO",LA | (HON) UNE TV
+http://185.134.22.150:8080/jokertv/streaming@2021/41453
+#EXTINF:-1 tvg-id="" tvg-name="LA | (HON) VICA TV" tvg-logo="" group-title="LATINO",LA | (HON) VICA TV
+http://185.134.22.150:8080/jokertv/streaming@2021/41455
+#EXTINF:-1 tvg-id="" tvg-name="LA | (PAN) CANAL 21" tvg-logo="https://todaypanama.com/wp-content/uploads/2016/10/Nextv_panama.png" group-title="LATINO",LA | (PAN) CANAL 21
+http://185.134.22.150:8080/jokertv/streaming@2021/38791
+#EXTINF:-1 tvg-id="" tvg-name="LA | (PAN) MAS TV 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Mas23tv.jpg" group-title="LATINO",LA | (PAN) MAS TV 23
+http://185.134.22.150:8080/jokertv/streaming@2021/38790
+#EXTINF:-1 tvg-id="" tvg-name="LA | (PAN) RPC 4" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pa-rpc-tv-3986.jpg" group-title="LATINO",LA | (PAN) RPC 4
+http://185.134.22.150:8080/jokertv/streaming@2021/38785
+#EXTINF:-1 tvg-id="TVMAX.pa" tvg-name="LA | (PAN) TV MAX" tvg-logo="https://ondemo.tmsimg.com/assets/s56457_ll_h3_aa.png" group-title="LATINO",LA | (PAN) TV MAX
+http://185.134.22.150:8080/jokertv/streaming@2021/38797
+#EXTINF:-1 tvg-id="TVChileTVNInternacional.bo" tvg-name="LA | (PAN) TVN" tvg-logo="https://www.tvn-2.com/nacionales/Logo-TVN_5925005.jpg" group-title="LATINO",LA | (PAN) TVN
+http://185.134.22.150:8080/jokertv/streaming@2021/38798
+#EXTINF:-1 tvg-id="" tvg-name="LA | (PER) AMERICA" tvg-logo="https://www.dropbox.com/s/s3e0o37bya35dhp/america.png?dl=1" group-title="LATINO",LA | (PER) AMERICA
+http://185.134.22.150:8080/jokertv/streaming@2021/40150
+#EXTINF:-1 tvg-id="" tvg-name="LA | (PER) ATV" tvg-logo="https://www.dropbox.com/s/g0f4ptnqeis313a/atv.png?dl=1" group-title="LATINO",LA | (PER) ATV
+http://185.134.22.150:8080/jokertv/streaming@2021/40153
+#EXTINF:-1 tvg-id="RADIOFRECCIA.it" tvg-name="LA | (PER) FRECUENCIA LATINA" tvg-logo="" group-title="LATINO",LA | (PER) FRECUENCIA LATINA
+http://185.134.22.150:8080/jokertv/streaming@2021/40152
+#EXTINF:-1 tvg-id="GOL(src1).es" tvg-name="LA | (PER) GOL PERU" tvg-logo="https://www.dropbox.com/s/qtqj7k5l8ykhcy2/golperu.png?dl=1" group-title="LATINO",LA | (PER) GOL PERU
+http://185.134.22.150:8080/jokertv/streaming@2021/40154
+#EXTINF:-1 tvg-id="" tvg-name="LA | (PER) PANAMERICANA" tvg-logo="https://www.dropbox.com/s/awqzfftujtpti6w/panamericana_tv_pe.png?dl=1" group-title="LATINO",LA | (PER) PANAMERICANA
+http://185.134.22.150:8080/jokertv/streaming@2021/40151
+#EXTINF:-1 tvg-id="" tvg-name="LA | (PRY) LOBO STATION" tvg-logo="https://www.buscoinfo.com.py/repimgs/negocios/icono/big/i93213-1171181747.jpg" group-title="LATINO",LA | (PRY) LOBO STATION
+http://185.134.22.150:8080/jokertv/streaming@2021/38801
+#EXTINF:-1 tvg-id="" tvg-name="LA | (PRY) RPC" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pa-rpc-tv-3986.jpg" group-title="LATINO",LA | (PRY) RPC
+http://185.134.22.150:8080/jokertv/streaming@2021/38802
+#EXTINF:-1 tvg-id="" tvg-name="LA | (PRY) TELEFUTURO" tvg-logo="https://www.sanlorenzopy.com/wp-content/uploads/2012/06/telefuturo.jpg" group-title="LATINO",LA | (PRY) TELEFUTURO
+http://185.134.22.150:8080/jokertv/streaming@2021/38804
+#EXTINF:-1 tvg-id="" tvg-name="LA | (PRY) TIGO SPORTS" tvg-logo="http://broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png" group-title="LATINO",LA | (PRY) TIGO SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/41899
+#EXTINF:-1 tvg-id="" tvg-name="LA | (PRY) TIGO SPORTS 2" tvg-logo="https://img2.freepng.es/20180604/vbx/kisspng-tigo-sports-millicom-liga-de-ftbol-profesional-b-5b154ef5e162c7.4865285915281231259232.jpg" group-title="LATINO",LA | (PRY) TIGO SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/41900
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL  21 " tvg-logo="https://static.epg.best/sv/Canal21.sv.png" group-title="LATINO",LA | (SLV) CANAL  21 
+http://185.134.22.150:8080/jokertv/streaming@2021/54453
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 10 " tvg-logo="https://static.epg.best/sv/Canal10Nacional.sv.png" group-title="LATINO",LA | (SLV) CANAL 10 
+http://185.134.22.150:8080/jokertv/streaming@2021/54466
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 11 " tvg-logo="https://static.epg.best/cr/Canal11.cr.png" group-title="LATINO",LA | (SLV) CANAL 11 
+http://185.134.22.150:8080/jokertv/streaming@2021/54465
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 12" tvg-logo="" group-title="LATINO",LA | (SLV) CANAL 12
+http://185.134.22.150:8080/jokertv/streaming@2021/40075
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 12 " tvg-logo="https://static.epg.best/sv/Canal12.sv.png" group-title="LATINO",LA | (SLV) CANAL 12 
+http://185.134.22.150:8080/jokertv/streaming@2021/54454
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 19" tvg-logo="" group-title="LATINO",LA | (SLV) CANAL 19
+http://185.134.22.150:8080/jokertv/streaming@2021/40076
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 19 " tvg-logo="https://static.epg.best/sv/Canal19.sv.png" group-title="LATINO",LA | (SLV) CANAL 19 
+http://185.134.22.150:8080/jokertv/streaming@2021/54455
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 2" tvg-logo="" group-title="LATINO",LA | (SLV) CANAL 2
+http://185.134.22.150:8080/jokertv/streaming@2021/40078
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 2 " tvg-logo="https://static.epg.best/sv/Canal2Nacional.sv.png" group-title="LATINO",LA | (SLV) CANAL 2 
+http://185.134.22.150:8080/jokertv/streaming@2021/54456
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 33 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Canal_33_El_Salvador_2016.png/770px-Canal_33_El_Salvador_2016.png" group-title="LATINO",LA | (SLV) CANAL 33 
+http://185.134.22.150:8080/jokertv/streaming@2021/54460
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/VTV.png" group-title="LATINO",LA | (SLV) CANAL 35
+http://185.134.22.150:8080/jokertv/streaming@2021/40080
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 4" tvg-logo="" group-title="LATINO",LA | (SLV) CANAL 4
+http://185.134.22.150:8080/jokertv/streaming@2021/40077
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 4 " tvg-logo="https://static.epg.best/sv/Canal4Nacional.sv.png" group-title="LATINO",LA | (SLV) CANAL 4 
+http://185.134.22.150:8080/jokertv/streaming@2021/54457
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 6" tvg-logo="" group-title="LATINO",LA | (SLV) CANAL 6
+http://185.134.22.150:8080/jokertv/streaming@2021/40074
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) CANAL 6 " tvg-logo="https://static.epg.best/sv/Canal6Nacional.sv.png" group-title="LATINO",LA | (SLV) CANAL 6 
+http://185.134.22.150:8080/jokertv/streaming@2021/54458
+#EXTINF:-1 tvg-id="ECUADOR | CANAL UNO :)" tvg-name="LA | (SLV) CANAL UNO " tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/large.5ab9d3e0ca0e9_CanalUno_1.png.b01c1d420a4b857809ba08eef0a1a5e4.png" group-title="LATINO",LA | (SLV) CANAL UNO 
+http://185.134.22.150:8080/jokertv/streaming@2021/54469
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) SOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/265px-Sol_tv_pe.png" group-title="LATINO",LA | (SLV) SOL TV
+http://185.134.22.150:8080/jokertv/streaming@2021/54468
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) TCS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TCS_35_2017.png" group-title="LATINO",LA | (SLV) TCS +
+http://185.134.22.150:8080/jokertv/streaming@2021/54464
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) TVO CANAL 23" tvg-logo="https://static.epg.best/sv/TVOCanal23.sv.png" group-title="LATINO",LA | (SLV) TVO CANAL 23
+http://185.134.22.150:8080/jokertv/streaming@2021/54463
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) VTV CANAL 35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/VTV_logo_2013.png" group-title="LATINO",LA | (SLV) VTV CANAL 35
+http://185.134.22.150:8080/jokertv/streaming@2021/54459
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) VTV CANAL 35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/VTV.png" group-title="LATINO",LA | (SLV) VTV CANAL 35
+http://185.134.22.150:8080/jokertv/streaming@2021/38920
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) WOW TV" tvg-logo="" group-title="LATINO",LA | (SLV) WOW TV
+http://185.134.22.150:8080/jokertv/streaming@2021/40079
+#EXTINF:-1 tvg-id="" tvg-name="LA | (SLV) WOW TV" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="LATINO",LA | (SLV) WOW TV
+http://185.134.22.150:8080/jokertv/streaming@2021/54461
+#EXTINF:-1 tvg-id="" tvg-name="LA | (VEN) TELEVEN" tvg-logo="https://iconape.com/wp-content/files/aj/285077/png/285077.png" group-title="LATINO",LA | (VEN) TELEVEN
+http://185.134.22.150:8080/jokertv/streaming@2021/62239
+#EXTINF:-1 tvg-id="" tvg-name="LA | (VEN) TV VENEZUELA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Venezolana_de_Televisi%C3%B3n_2018.svg/1200px-Venezolana_de_Televisi%C3%B3n_2018.svg.png" group-title="LATINO",LA | (VEN) TV VENEZUELA
+http://185.134.22.150:8080/jokertv/streaming@2021/47394
+#EXTINF:-1 tvg-id="" tvg-name="LA | (VEN) VENEVISION" tvg-logo="" group-title="LATINO",LA | (VEN) VENEVISION
+http://185.134.22.150:8080/jokertv/streaming@2021/47393
+#EXTINF:-1 tvg-id="" tvg-name="LA | (VEN) VENEVISION PLUS" tvg-logo="https://img.favpng.com/13/25/6/logo-venevisi-n-plus-ve-plus-tv-directv-png-favpng-Z9LmQe39rJ0EgvBV8sZkgG6QY.jpg" group-title="LATINO",LA | (VEN) VENEVISION PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38916
+#EXTINF:-1 tvg-id="" tvg-name="LA | 5 STAR" tvg-logo="https://assets.tvplayer.com/common/logos/256/Inverted/566.png" group-title="LATINO",LA | 5 STAR
+http://185.134.22.150:8080/jokertv/streaming@2021/38525
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="LA | A&E" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL._SY355_.png" group-title="LATINO",LA | A&E
+http://185.134.22.150:8080/jokertv/streaming@2021/38527
+#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="LA | ACTION MAX" tvg-logo="https://wtcks.com/images/channels/logos/actionmax.png" group-title="LATINO",LA | ACTION MAX
+http://185.134.22.150:8080/jokertv/streaming@2021/38528
+#EXTINF:-1 tvg-id="NBCKALB.us" tvg-name="LA | ALEXANDRIA | NBC KALB" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-2-kalb-dt2-us.png?raw=true" group-title="NBC LOCAL NETWORKS",LA | ALEXANDRIA | NBC KALB
+http://185.134.22.150:8080/jokertv/streaming@2021/32084
+#EXTINF:-1 tvg-id="" tvg-name="LA | AMC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LATINO",LA | AMC
+http://185.134.22.150:8080/jokertv/streaming@2021/38673
+#EXTINF:-1 tvg-id="" tvg-name="LA | AME 47 TV" tvg-logo="" group-title="LATINO",LA | AME 47 TV
+http://185.134.22.150:8080/jokertv/streaming@2021/43494
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="LA | ANIMAL PLANET" tvg-logo="https://i.pinimg.com/474x/df/b4/89/dfb4899dbd0dea6c2cb1559e29f4d586.jpg" group-title="LATINO",LA | ANIMAL PLANET
+http://185.134.22.150:8080/jokertv/streaming@2021/38533
+#EXTINF:-1 tvg-id="" tvg-name="LA | ATV" tvg-logo="https://limaeasy.com/images/jreviews/tn/tn_1427_atv-1350150787.jpg" group-title="LATINO",LA | ATV
+http://185.134.22.150:8080/jokertv/streaming@2021/38535
+#EXTINF:-1 tvg-id="AXN.co" tvg-name="LA | AXN" tvg-logo="https://www.chillglobal.com/images/channels/70-axn-1432161537.jpg" group-title="LATINO",LA | AXN
+http://185.134.22.150:8080/jokertv/streaming@2021/38536
+#EXTINF:-1 tvg-id="AzCorazon(src1).es" tvg-name="LA | AZ CORAZON" tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/148-AZ-Corazon-01.jpg" group-title="LATINO",LA | AZ CORAZON
+http://185.134.22.150:8080/jokertv/streaming@2021/38538
+#EXTINF:-1 tvg-id="BabyFirstTV(English).mx" tvg-name="LA | BABY FIRST" tvg-logo="https://icon2.cleanpng.com/20180925/taf/kisspng-babyfirsttv-clip-art-babytv-smile-little-rowland-buggies-what-the-bugs-are-watching-5baa44ffeff7e7.5481422215378854399829.jpg" group-title="LATINO",LA | BABY FIRST
+http://185.134.22.150:8080/jokertv/streaming@2021/38540
+#EXTINF:-1 tvg-id="" tvg-name="LA | BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="LATINO",LA | BABY TV
+http://185.134.22.150:8080/jokertv/streaming@2021/38541
+#EXTINF:-1 tvg-id="PBS.(WLPB).Baton.Rouge,.LA.us" tvg-name="LA | BATON ROUGE PBS WLPB" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="USA LOCAL NETWORKS",LA | BATON ROUGE PBS WLPB
+http://185.134.22.150:8080/jokertv/streaming@2021/59334
+#EXTINF:-1 tvg-id="ABCWBRZ.us" tvg-name="LA | BATON ROUGE | ABC WBRZ" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/abc-2-wbrz-icon-us.png?raw=true" group-title="ABC LOCAL NETWORKS",LA | BATON ROUGE | ABC WBRZ
+http://185.134.22.150:8080/jokertv/streaming@2021/32085
+#EXTINF:-1 tvg-id="CBSWAFB.us" tvg-name="LA | BATON ROUGE | CBS WAFB" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-9-wafb-us.png?raw=true" group-title="CBS LOCAL NETWORKS",LA | BATON ROUGE | CBS WAFB
+http://185.134.22.150:8080/jokertv/streaming@2021/32086
+#EXTINF:-1 tvg-id="FOXWGMB.us" tvg-name="LA | BATON ROUGE | FOX WGMB" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Wgmb_fox44-newshd.svg/revision/latest/scale-to-width-down/175?cb=20190603192332" group-title="FOX LOCAL NETWORKS",LA | BATON ROUGE | FOX WGMB
+http://185.134.22.150:8080/jokertv/streaming@2021/32087
+#EXTINF:-1 tvg-id="NBCWVLA.us" tvg-name="LA | BATON ROUGE | NBC WVLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/WVLA_1992.png/revision/latest/scale-to-width-down/200?cb=20130421211405" group-title="NBC LOCAL NETWORKS",LA | BATON ROUGE | NBC WVLA
+http://185.134.22.150:8080/jokertv/streaming@2021/32088
+#EXTINF:-1 tvg-id="BBCWorldNews(NorthAmerica)(English).mx" tvg-name="LA | BBC WORLD" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1488263209/ipsmwhr52yvvoeeuixff.png" group-title="LATINO",LA | BBC WORLD
+http://185.134.22.150:8080/jokertv/streaming@2021/38547
+#EXTINF:-1 tvg-id="" tvg-name="LA | BEIN SPORTS" tvg-logo="http://xtream-coders.com/x0/deportes/beinsports.png" group-title="BEIN SPORTS",LA | BEIN SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/59151
+#EXTINF:-1 tvg-id="" tvg-name="LA | BEIN SPORTS" tvg-logo="http://011011011.com:8080/images/032165835773df96b434dd68cc6a4990.png" group-title="BEIN SPORTS",LA | BEIN SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/59153
+#EXTINF:-1 tvg-id="" tvg-name="LA | BEIN SPORTS EN ESPANOL" tvg-logo="" group-title="BEIN SPORTS",LA | BEIN SPORTS EN ESPANOL
+http://185.134.22.150:8080/jokertv/streaming@2021/59154
+#EXTINF:-1 tvg-id="" tvg-name="LA | BEIN SPORTS EN ESPANOL" tvg-logo="https://i.imgur.com/k8pXVBL.jpg" group-title="LATINO",LA | BEIN SPORTS EN ESPANOL
+http://185.134.22.150:8080/jokertv/streaming@2021/46525
+#EXTINF:-1 tvg-id="" tvg-name="LA | BEIN SPORTS N" tvg-logo="" group-title="BEIN SPORTS",LA | BEIN SPORTS N
+http://185.134.22.150:8080/jokertv/streaming@2021/59155
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="LA | BEIN SPORTS N" tvg-logo="https://i.ibb.co/p1GpRV5/bein-sports-spanish.png" group-title="LATINO",LA | BEIN SPORTS N
+http://185.134.22.150:8080/jokertv/streaming@2021/46524
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="LA | BLOOMBERG" tvg-logo="https://www.logolynx.com/images/logolynx/20/206bae7f0582591feaf6c73a77b2ceb2.jpeg" group-title="LATINO",LA | BLOOMBERG
+http://185.134.22.150:8080/jokertv/streaming@2021/38549
+#EXTINF:-1 tvg-id="" tvg-name="LA | C+ESTRELLAS" tvg-logo="http://mylatinotv.com:8080/images/mexico/lasestrellas.png" group-title="LATINO",LA | C+ESTRELLAS
+http://185.134.22.150:8080/jokertv/streaming@2021/36542
+#EXTINF:-1 tvg-id="DuplicateXEIPNTVCanal11(OnceTV).mx" tvg-name="LA | CANAL 11" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LATINO",LA | CANAL 11
+http://185.134.22.150:8080/jokertv/streaming@2021/38559
+#EXTINF:-1 tvg-id="" tvg-name="LA | CARACOL" tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="LATINO",LA | CARACOL
+http://185.134.22.150:8080/jokertv/streaming@2021/38571
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="LA | CARTOON NETWORK" tvg-logo="https://i.pinimg.com/originals/9a/fd/2f/9afd2fd04efbc029d29108b02410ad0e.gif" group-title="LATINO",LA | CARTOON NETWORK
+http://185.134.22.150:8080/jokertv/streaming@2021/38573
+#EXTINF:-1 tvg-id="" tvg-name="LA | CDF PREMIUM" tvg-logo="https://www.chilenotas.com/img/cdf.png" group-title="LATINO",LA | CDF PREMIUM
+http://185.134.22.150:8080/jokertv/streaming@2021/38575
+#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="LA | CINE CANAL" tvg-logo="https://www.cablefuturo.com/images/portfolio/recent/cinecanal.png" group-title="LATINO",LA | CINE CANAL
+http://185.134.22.150:8080/jokertv/streaming@2021/38577
+#EXTINF:-1 tvg-id="CinemaDinamita(ClaroChile).co" tvg-name="LA | CINE DINAMITA" tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="LATINO",LA | CINE DINAMITA
+http://185.134.22.150:8080/jokertv/streaming@2021/38578
+#EXTINF:-1 tvg-id="" tvg-name="LA | CINE LATINO" tvg-logo="https://i0.pngocean.com/files/564/311/645/san-diego-latino-film-festival-cinelatino-television-channel-logo-legendary-film-logo.jpg" group-title="LATINO",LA | CINE LATINO
+http://185.134.22.150:8080/jokertv/streaming@2021/38579
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="LA | CINEMAX" tvg-logo="https://cdn1-www.comingsoon.net/assets/uploads/2017/10/Cinemax.jpg" group-title="LATINO",LA | CINEMAX
+http://185.134.22.150:8080/jokertv/streaming@2021/38604
+#EXTINF:-1 tvg-id="" tvg-name="LA | CINEVISIION CANAL 19" tvg-logo="" group-title="LATINO",LA | CINEVISIION CANAL 19
+http://185.134.22.150:8080/jokertv/streaming@2021/43495
+#EXTINF:-1 tvg-id="" tvg-name="LA | CITY TV" tvg-logo="https://support.shaw.ca/legacyfs/online/166026_City%20Video%20App.jpg" group-title="LATINO",LA | CITY TV
+http://185.134.22.150:8080/jokertv/streaming@2021/38606
+#EXTINF:-1 tvg-id="" tvg-name="LA | CLARO SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" group-title="LATINO",LA | CLARO SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38610
+#EXTINF:-1 tvg-id="CNNenEspanol.ar" tvg-name="LA | CNN ESPANOL" tvg-logo="https://pbs.twimg.com/profile_images/517870766855958528/ujrcVSxN_400x400.jpeg" group-title="LATINO",LA | CNN ESPANOL
+http://185.134.22.150:8080/jokertv/streaming@2021/38612
+#EXTINF:-1 tvg-id="CNNInt(src1).es" tvg-name="LA | CNN INTERNACIONAL" tvg-logo="https://i2.cdn.turner.com/cnn/2017/images/08/16/cnni.logo_t1.jpg" group-title="LATINO",LA | CNN INTERNACIONAL
+http://185.134.22.150:8080/jokertv/streaming@2021/38614
+#EXTINF:-1 tvg-id="" tvg-name="LA | COMEDY CENTRAL" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LATINO",LA | COMEDY CENTRAL
+http://185.134.22.150:8080/jokertv/streaming@2021/38616
+#EXTINF:-1 tvg-id="" tvg-name="LA | CONCERT CHANNEL" tvg-logo="https://cdn.mitvstatic.com/channels/sv_concert-channel_m.png" group-title="LATINO",LA | CONCERT CHANNEL
+http://185.134.22.150:8080/jokertv/streaming@2021/38617
+#EXTINF:-1 tvg-id="" tvg-name="LA | CUBAVISION" tvg-logo="https://www.ecured.cu/images/thumb/c/cc/Cubavisi%C3%B3n_logo.jpg/260px-Cubavisi%C3%B3n_logo.jpg" group-title="LATINO",LA | CUBAVISION
+http://185.134.22.150:8080/jokertv/streaming@2021/36563
+#EXTINF:-1 tvg-id="DePelicula.co" tvg-name="LA | DE PELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="LATINO",LA | DE PELICULA
+http://185.134.22.150:8080/jokertv/streaming@2021/38628
+#EXTINF:-1 tvg-id="DePelicula(Spanish).us" tvg-name="LA | DE PELICULA CLASICO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="LATINO",LA | DE PELICULA CLASICO
+http://185.134.22.150:8080/jokertv/streaming@2021/38629
+#EXTINF:-1 tvg-id="" tvg-name="LA | DIRECTV SPORT 1" tvg-logo="https://www.directv.com.ve/img/directv-logo-fb-150x150.jpg" group-title="LATINO",LA | DIRECTV SPORT 1
+http://185.134.22.150:8080/jokertv/streaming@2021/38634
+#EXTINF:-1 tvg-id="DIRECTVSports2.ar" tvg-name="LA | DIRECTV SPORT 2" tvg-logo="https://www.directv.com.ve/img/directv-logo-fb-150x150.jpg" group-title="LATINO",LA | DIRECTV SPORT 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38635
+#EXTINF:-1 tvg-id="" tvg-name="LA | DIRECTV SPORT PLUS" tvg-logo="https://www.directv.com.ve/img/directv-logo-fb-150x150.jpg" group-title="LATINO",LA | DIRECTV SPORT PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38638
+#EXTINF:-1 tvg-id="" tvg-name="LA | DISCOVERY CHANNEL" tvg-logo="https://i.pinimg.com/originals/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.png" group-title="LATINO",LA | DISCOVERY CHANNEL
+http://185.134.22.150:8080/jokertv/streaming@2021/38641
+#EXTINF:-1 tvg-id="DiscoveryCivilization.mx" tvg-name="LA | DISCOVERY CIVILIZATION" tvg-logo="https://png.pngitem.com/pimgs/s/2-25083_discovery-civilization-channel-logo-hd-png-download.png" group-title="LATINO",LA | DISCOVERY CIVILIZATION
+http://185.134.22.150:8080/jokertv/streaming@2021/38642
+#EXTINF:-1 tvg-id="" tvg-name="LA | DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Discovery_h%26h.png" group-title="LATINO",LA | DISCOVERY H&H
+http://185.134.22.150:8080/jokertv/streaming@2021/38643
+#EXTINF:-1 tvg-id="" tvg-name="LA | DISCOVERY KIDS" tvg-logo="https://seeklogo.com/images/D/Discovery_Kids-logo-2092D5CBE5-seeklogo.com.png" group-title="LATINO",LA | DISCOVERY KIDS
+http://185.134.22.150:8080/jokertv/streaming@2021/38644
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="LA | DISCOVERY SCIENCE" tvg-logo="https://www.pngitem.com/pimgs/m/302-3028784_science-channel-logo-png-discovery-science-channel-logo.png" group-title="LATINO",LA | DISCOVERY SCIENCE
+http://185.134.22.150:8080/jokertv/streaming@2021/38645
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="LA | DISCOVERY THEATER" tvg-logo="https://cdn.mitvstatic.com/channels/hn_discovery-hd-theater_m.png" group-title="LATINO",LA | DISCOVERY THEATER
+http://185.134.22.150:8080/jokertv/streaming@2021/38646
+#EXTINF:-1 tvg-id="DiscoveryTurbo.co" tvg-name="LA | DISCOVERY TURBO" tvg-logo="https://www.passionateinmarketing.com/wp-content/uploads/2014/12/discovery.jpg" group-title="LATINO",LA | DISCOVERY TURBO
+http://185.134.22.150:8080/jokertv/streaming@2021/38648
+#EXTINF:-1 tvg-id="" tvg-name="LA | DISCOVERY WORLD" tvg-logo="https://www.kindpng.com/picc/m/96-966414_world-discovery-hd-logo-png-discovery-world-logos.png" group-title="LATINO",LA | DISCOVERY WORLD
+http://185.134.22.150:8080/jokertv/streaming@2021/38649
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="LA | DISNEY" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/05/disney_channel_logo_a_l.jpg" group-title="LATINO",LA | DISNEY
+http://185.134.22.150:8080/jokertv/streaming@2021/38650
+#EXTINF:-1 tvg-id="DISNEYJR(src1).es" tvg-name="LA | DISNEY JR" tvg-logo="https://www.pngitem.com/pimgs/m/34-345473_welcome-to-disney-s-media-kit-disney-junior.png" group-title="LATINO",LA | DISNEY JR
+http://185.134.22.150:8080/jokertv/streaming@2021/38651
+#EXTINF:-1 tvg-id="" tvg-name="LA | DISNEY XD" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/disney-xd-logo.png" group-title="LATINO",LA | DISNEY XD
+http://185.134.22.150:8080/jokertv/streaming@2021/38652
+#EXTINF:-1 tvg-id="" tvg-name="LA | DOM | TELESISTEMA" tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="LATINO",LA | DOM | TELESISTEMA
+http://185.134.22.150:8080/jokertv/streaming@2021/38619
+#EXTINF:-1 tvg-id="DW(English).es" tvg-name="LA | DW" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-dw-espano.jpg" group-title="LATINO",LA | DW
+http://185.134.22.150:8080/jokertv/streaming@2021/38654
+#EXTINF:-1 tvg-id="EEntertainmentTV.co" tvg-name="LA | E!" tvg-logo="https://filmfixersbulgaria.com/wp-content/uploads/2015/04/ELogo.jpg" group-title="LATINO",LA | E!
+http://185.134.22.150:8080/jokertv/streaming@2021/38656
+#EXTINF:-1 tvg-id="" tvg-name="LA | ECU | ECUAVISA" tvg-logo="https://www.radiocre.com/wp-content/uploads/2015/06/logo-ecuavisa.jpg" group-title="LATINO",LA | ECU | ECUAVISA
+http://185.134.22.150:8080/jokertv/streaming@2021/38658
+#EXTINF:-1 tvg-id="" tvg-name="LA | ESPERANZA TV" tvg-logo="https://pbs.twimg.com/profile_images/902706164/logo_esperanza_400x400.jpg" group-title="LATINO",LA | ESPERANZA TV
+http://185.134.22.150:8080/jokertv/streaming@2021/38663
+#EXTINF:-1 tvg-id="" tvg-name="LA | ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="LATINO",LA | ESPN
+http://185.134.22.150:8080/jokertv/streaming@2021/38664
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="LA | ESPN 2" tvg-logo="https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title="LATINO",LA | ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38666
+#EXTINF:-1 tvg-id="" tvg-name="LA | ESPN 3" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo-615x405.jpg" group-title="LATINO",LA | ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38667
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="LA | ESPN DEPORTES" tvg-logo="https://espnpressroom.com/us/files/2016/03/RS1129_ESPN_Deportes_CLR_Pos-scr-1-850x610.jpg" group-title="LATINO",LA | ESPN DEPORTES
+http://185.134.22.150:8080/jokertv/streaming@2021/38668
+#EXTINF:-1 tvg-id="Dep|| ESPN PLUS | Mexico" tvg-name="LA | ESPN PLUS" tvg-logo="https://espn-cannonball-cdn.bamgrid.com/assets/originals/espn_plus_share-3.png" group-title="LATINO",LA | ESPN PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38669
+#EXTINF:-1 tvg-id="" tvg-name="LA | ESTRELLA TV" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/42/USBA300040WR_20201007T012224.png" group-title="LATINO",LA | ESTRELLA TV
+http://185.134.22.150:8080/jokertv/streaming@2021/40061
+#EXTINF:-1 tvg-id="FXMovies.co" tvg-name="LA | FILM ZONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Film_zone.png" group-title="LATINO",LA | FILM ZONE
+http://185.134.22.150:8080/jokertv/streaming@2021/38674
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNDg4MDQ0ODUyNTYw/foxnetworksgrouplogoresizedjpg.jpg" group-title="LATINO",LA | FOX
+http://185.134.22.150:8080/jokertv/streaming@2021/38683
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX ACTION" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-action-oeste_m.png" group-title="LATINO",LA | FOX ACTION
+http://185.134.22.150:8080/jokertv/streaming@2021/38676
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png" group-title="LATINO",LA | FOX CINEMA
+http://185.134.22.150:8080/jokertv/streaming@2021/38677
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX CLASSICS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/FOX-Classic-Logo-01.png" group-title="LATINO",LA | FOX CLASSICS
+http://185.134.22.150:8080/jokertv/streaming@2021/38679
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX COMEDY" tvg-logo="https://d-tm.ppstatic.pl/kadry/76/9d/03211bb07169f7d2c1f357372ee3.1000.jpg" group-title="LATINO",LA | FOX COMEDY
+http://185.134.22.150:8080/jokertv/streaming@2021/38680
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="LA | FOX DEPORTES" tvg-logo="https://www.pngkey.com/png/detail/297-2976406_fox-deportes-fox-sports-australia-logo.png" group-title="LATINO",LA | FOX DEPORTES
+http://185.134.22.150:8080/jokertv/streaming@2021/38681
+#EXTINF:-1 tvg-id="STARFUN.co" tvg-name="LA | FOX FAMILY" tvg-logo="https://www.pikpng.com/pngl/m/122-1229359_discovery-family-logosvg-wikimedia-commons-fox-family-tv.png" group-title="LATINO",LA | FOX FAMILY
+http://185.134.22.150:8080/jokertv/streaming@2021/38682
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX LIFE" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/11/LOGO-FOX-Life.jpg" group-title="LATINO",LA | FOX LIFE
+http://185.134.22.150:8080/jokertv/streaming@2021/38684
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX MOVIES" tvg-logo="https://www.pikpng.com/pngl/m/48-484785_star-movies-logo-png-pluspng-fox-movies-logo.png" group-title="LATINO",LA | FOX MOVIES
+http://185.134.22.150:8080/jokertv/streaming@2021/38686
+#EXTINF:-1 tvg-id="FoxNewsChannel.br" tvg-name="LA | FOX NEWS" tvg-logo="https://i.ya-webdesign.com/images/fox-news-logo-png-6.png" group-title="LATINO",LA | FOX NEWS
+http://185.134.22.150:8080/jokertv/streaming@2021/38687
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX SERIES" tvg-logo="https://www.pngitem.com/pimgs/m/436-4360507_fox-series-logo-jpg-hd-png-download.png" group-title="LATINO",LA | FOX SERIES
+http://185.134.22.150:8080/jokertv/streaming@2021/38695
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="LATINO",LA | FOX SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38698
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="LA | FOX SPORTS 1" tvg-logo="https://static.businessinsider.com/image/520cea5f6bb3f77d30000010/image.jpg" group-title="LATINO",LA | FOX SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/38699
+#EXTINF:-1 tvg-id="FOXSports2.mx" tvg-name="LA | FOX SPORTS 2" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-2.png" group-title="LATINO",LA | FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38700
+#EXTINF:-1 tvg-id="FOXSports3.mx" tvg-name="LA | FOX SPORTS 3" tvg-logo="https://www.newslinereport.com/online/nota_la-frmula-1-estar-en-la-pantalla-de-fox-sports-3.jpg" group-title="LATINO",LA | FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38701
+#EXTINF:-1 tvg-id="" tvg-name="LA | FX" tvg-logo="https://i.pinimg.com/originals/26/67/cc/2667cc6d48b116b21fe3be2f81d19dd1.jpg" group-title="LATINO",LA | FX
+http://185.134.22.150:8080/jokertv/streaming@2021/38702
+#EXTINF:-1 tvg-id="GalavisionCableNetwork(Pacific)(Spanish).us" tvg-name="LA | GALAVISION" tvg-logo="https://i1.pngguru.com/preview/910/746/490/cinema-dock-icons-galavision-galavision-logo-thumbnail.jpg" group-title="LATINO",LA | GALAVISION
+http://185.134.22.150:8080/jokertv/streaming@2021/38705
+#EXTINF:-1 tvg-id="ElGarageTV.mx" tvg-name="LA | GARAGE TV" tvg-logo="https://p7.hiclipart.com/preview/926/901/276/el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr.jpg" group-title="LATINO",LA | GARAGE TV
+http://185.134.22.150:8080/jokertv/streaming@2021/38707
+#EXTINF:-1 tvg-id="Glitz.co" tvg-name="LA | GLITZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="LATINO",LA | GLITZ
+http://185.134.22.150:8080/jokertv/streaming@2021/38708
+#EXTINF:-1 tvg-id="" tvg-name="LA | GOL TV" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2013/10/goltv-logo.jpg" group-title="LATINO",LA | GOL TV
+http://185.134.22.150:8080/jokertv/streaming@2021/38709
+#EXTINF:-1 tvg-id="" tvg-name="LA | GOL TV (EC)" tvg-logo="https://cdn.mitvstatic.com/channels/6b340093-ac48-4be8-ac96-69d63ad09c26_m.jpg" group-title="LATINO",LA | GOL TV (EC)
+http://185.134.22.150:8080/jokertv/streaming@2021/42707
+#EXTINF:-1 tvg-id="Golden.co" tvg-name="LA | GOLDEN" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i15278ffc3f86db9c/version/1470080571/image.png" group-title="LATINO",LA | GOLDEN
+http://185.134.22.150:8080/jokertv/streaming@2021/38710
+#EXTINF:-1 tvg-id="" tvg-name="LA | GOLDEN EDGE" tvg-logo="https://2.bp.blogspot.com/-1mvY7DMJnp4/Vf0QbDpj1nI/AAAAAAAAAa0/GGcIOYGe0vE/s1600/Menu-Senales-GoldenEDGE.jpg" group-title="LATINO",LA | GOLDEN EDGE
+http://185.134.22.150:8080/jokertv/streaming@2021/38711
+#EXTINF:-1 tvg-id="GOLDENPLUS.co" tvg-name="LA | GOLDEN PLUS" tvg-logo="https://farm5.static.flickr.com/4683/39199446922_0b81e3e488.jpg" group-title="LATINO",LA | GOLDEN PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38712
+#EXTINF:-1 tvg-id="" tvg-name="LA | GOLDEN PREMIER" tvg-logo="https://images.mi.tv/channels/co_golden-premier-hd_m.png" group-title="LATINO",LA | GOLDEN PREMIER
+http://185.134.22.150:8080/jokertv/streaming@2021/38713
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="LA | GOLF CHANNEL" tvg-logo="https://www.thengfq.com/site/wp-content/uploads/2018/01/Q_Top100_Logos_GolfChannel-1.jpg" group-title="LATINO",LA | GOLF CHANNEL
+http://185.134.22.150:8080/jokertv/streaming@2021/38715
+#EXTINF:-1 tvg-id="" tvg-name="LA | GOURMET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_2013-10-26_21-48.png" group-title="LATINO",LA | GOURMET
+http://185.134.22.150:8080/jokertv/streaming@2021/38659
+#EXTINF:-1 tvg-id="" tvg-name="LA | GRACIA TV" tvg-logo="" group-title="LATINO",LA | GRACIA TV
+http://185.134.22.150:8080/jokertv/streaming@2021/36546
+#EXTINF:-1 tvg-id="" tvg-name="LA | H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="LATINO",LA | H2
+http://185.134.22.150:8080/jokertv/streaming@2021/38725
+#EXTINF:-1 tvg-id="" tvg-name="LA | HBO" tvg-logo="https://static-wmg.warnermediacdn.com/blog/images/hbo-logo.jpg" group-title="LATINO",LA | HBO
+http://185.134.22.150:8080/jokertv/streaming@2021/38730
+#EXTINF:-1 tvg-id="" tvg-name="LA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="LATINO",LA | HBO 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38726
+#EXTINF:-1 tvg-id="" tvg-name="LA | HBO FAMILY" tvg-logo="https://www.pngitem.com/pimgs/m/287-2873927_hbo-family-channel-logo-hd-png-download.png" group-title="LATINO",LA | HBO FAMILY
+http://185.134.22.150:8080/jokertv/streaming@2021/38729
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="LA | HBO PLUS" tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/763-HBO-PlusHD.jpg" group-title="LATINO",LA | HBO PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38731
+#EXTINF:-1 tvg-id="" tvg-name="LA | HBO SIGNATURE" tvg-logo="https://www.tvchinese.net/uploads/tv/hbosignature.jpg" group-title="LATINO",LA | HBO SIGNATURE
+http://185.134.22.150:8080/jokertv/streaming@2021/38733
+#EXTINF:-1 tvg-id="" tvg-name="LA | HISTORY CHANNEL" tvg-logo="https://tv.bt.com/images/history-on-bt-tv-136409750331702601-160920230649.jpg" group-title="LATINO",LA | HISTORY CHANNEL
+http://185.134.22.150:8080/jokertv/streaming@2021/38738
+#EXTINF:-1 tvg-id="HLN.mx" tvg-name="LA | HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="LATINO",LA | HLN
+http://185.134.22.150:8080/jokertv/streaming@2021/38739
+#EXTINF:-1 tvg-id="HOLATV.co" tvg-name="LA | HOLA TV" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/%C2%A1Hola-TV.png" group-title="LATINO",LA | HOLA TV
+http://185.134.22.150:8080/jokertv/streaming@2021/38740
+#EXTINF:-1 tvg-id="" tvg-name="LA | HTV" tvg-logo="https://i.hipinpakistan.com/large/2016/01/56939276c1c51.png" group-title="LATINO",LA | HTV
+http://185.134.22.150:8080/jokertv/streaming@2021/38741
+#EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="LA | INVESTIGATION DISCOVERY" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzNjkzNTczNDY1MTcw/id-logo-jpg.jpg" group-title="LATINO",LA | INVESTIGATION DISCOVERY
+http://185.134.22.150:8080/jokertv/streaming@2021/38743
+#EXTINF:-1 tvg-id="Lifetime.co" tvg-name="LA | LIFETIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="LATINO",LA | LIFETIME
+http://185.134.22.150:8080/jokertv/streaming@2021/38745
+#EXTINF:-1 tvg-id="" tvg-name="LA | MAX" tvg-logo="https://topisraelinterns.com/wp-content/uploads/2017/09/MAX-LOGO-441x355.jpg" group-title="LATINO",LA | MAX
+http://185.134.22.150:8080/jokertv/streaming@2021/38750
+#EXTINF:-1 tvg-id="HBOXtreme.co" tvg-name="LA | MAX PRIME" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad7f8411572449.560f9d66db86b.jpg" group-title="LATINO",LA | MAX PRIME
+http://185.134.22.150:8080/jokertv/streaming@2021/38751
+#EXTINF:-1 tvg-id="" tvg-name="LA | MAX UP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Max_up.png" group-title="LATINO",LA | MAX UP
+http://185.134.22.150:8080/jokertv/streaming@2021/38752
+#EXTINF:-1 tvg-id="MegaTV(Spanish).us" tvg-name="LA | MEGA" tvg-logo="https://img.generation-nt.com/mega-logo_016200EC01498122.png" group-title="LATINO",LA | MEGA
+http://185.134.22.150:8080/jokertv/streaming@2021/38753
+#EXTINF:-1 tvg-id="" tvg-name="LA | MIAMI TV" tvg-logo="" group-title="LATINO",LA | MIAMI TV
+http://185.134.22.150:8080/jokertv/streaming@2021/53590
+#EXTINF:-1 tvg-id="MoreMAX.us" tvg-name="LA | MOREMAX" tvg-logo="https://www.pickcinema.com/images/tv/logos/momax.png" group-title="LATINO",LA | MOREMAX
+http://185.134.22.150:8080/jokertv/streaming@2021/38756
+#EXTINF:-1 tvg-id="" tvg-name="LA | MTV" tvg-logo="https://www.pngitem.com/pimgs/m/241-2410823_file-mtv-transparent-white-mtv-logo-hd-png.png" group-title="LATINO",LA | MTV
+http://185.134.22.150:8080/jokertv/streaming@2021/38759
+#EXTINF:-1 tvg-id="MTVHits.es" tvg-name="LA | MTV HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/MTV_HITS_logo.svg/493px-MTV_HITS_logo.svg.png" group-title="LATINO",LA | MTV HITS
+http://185.134.22.150:8080/jokertv/streaming@2021/38760
+#EXTINF:-1 tvg-id="" tvg-name="LA | NAT GEO" tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450.jpg" group-title="LATINO",LA | NAT GEO
+http://185.134.22.150:8080/jokertv/streaming@2021/38764
+#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="LA | NAT GEO KIDS" tvg-logo="https://staticr1.blastingcdn.com/media/photogallery/2017/7/5/660x290/b_1200x675/logo-de-natgeokids-imagen-cortesia_1427105.jpg" group-title="LATINO",LA | NAT GEO KIDS
+http://185.134.22.150:8080/jokertv/streaming@2021/38765
+#EXTINF:-1 tvg-id="NATGEOWILD(src1).es" tvg-name="LA | NAT GEO WILD" tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="LATINO",LA | NAT GEO WILD
+http://185.134.22.150:8080/jokertv/streaming@2021/38768
+#EXTINF:-1 tvg-id="UniversoPacific.us" tvg-name="LA | NBC UNIVERSO" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0OTM5NjQ5NjA2NzM4/nbcuniversojpg.jpg" group-title="LATINO",LA | NBC UNIVERSO
+http://185.134.22.150:8080/jokertv/streaming@2021/38769
+#EXTINF:-1 tvg-id="" tvg-name="LA | NEXT TV" tvg-logo="https://attila.design/wp-content/uploads/2017/03/next-tv-ident.jpg" group-title="LATINO",LA | NEXT TV
+http://185.134.22.150:8080/jokertv/streaming@2021/38771
+#EXTINF:-1 tvg-id="~ SD NICK 2" tvg-name="LA | NICK 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nick_2_logo_%282010%29.svg/1280px-Nick_2_logo_%282010%29.svg.png" group-title="LATINO",LA | NICK 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38772
+#EXTINF:-1 tvg-id="" tvg-name="LA | NICK JUNIOR" tvg-logo="https://pbs.twimg.com/profile_images/378800000690368946/51cc659f421f9ab3a482ffd7e8c34ad1_400x400.jpeg" group-title="LATINO",LA | NICK JUNIOR
+http://185.134.22.150:8080/jokertv/streaming@2021/38773
+#EXTINF:-1 tvg-id="" tvg-name="LA | NICKELODEAN" tvg-logo="https://i.ytimg.com/vi/SF9-_MaTbs0/maxresdefault.jpg" group-title="LATINO",LA | NICKELODEAN
+http://185.134.22.150:8080/jokertv/streaming@2021/38774
+#EXTINF:-1 tvg-id="" tvg-name="LA | NICKTOONS" tvg-logo="https://i.ytimg.com/vi/cjbDjSKN9As/maxresdefault.jpg" group-title="LATINO",LA | NICKTOONS
+http://185.134.22.150:8080/jokertv/streaming@2021/38775
+#EXTINF:-1 tvg-id="NTN24NuestraTeleNoticias24.co" tvg-name="LA | NTN 24" tvg-logo="https://uploads.concordia.net/2017/08/31182503/NTN24.png" group-title="LATINO",LA | NTN 24
+http://185.134.22.150:8080/jokertv/streaming@2021/38783
+#EXTINF:-1 tvg-id="OuterMAX.us" tvg-name="LA | OUTERMAX" tvg-logo="https://i.ytimg.com/vi/jH1YE8W9rqs/hqdefault.jpg" group-title="LATINO",LA | OUTERMAX
+http://185.134.22.150:8080/jokertv/streaming@2021/38784
+#EXTINF:-1 tvg-id="panamericana.pe" tvg-name="LA | PANAMERICANA" tvg-logo="https://lamula.pe/media/uploads/a55a219a5dce41be8fa4e28a11d70d4e.jpg" group-title="LATINO",LA | PANAMERICANA
+http://185.134.22.150:8080/jokertv/streaming@2021/38800
+#EXTINF:-1 tvg-id="PARAMOUNT(src1).es" tvg-name="LA | PARAMOUNT" tvg-logo="https://www.graphis.com/media/uploads/cache/ae/a8/aea8ad2078191d4e9153c6e34fd22808.jpg" group-title="LATINO",LA | PARAMOUNT
+http://185.134.22.150:8080/jokertv/streaming@2021/38805
+#EXTINF:-1 tvg-id="" tvg-name="LA | RCN" tvg-logo="" group-title="LATINO",LA | RCN
+http://185.134.22.150:8080/jokertv/streaming@2021/36580
+#EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="LA | RETROPLEX" tvg-logo="https://p1.hiclipart.com/preview/568/1022/484/tv-channel-icons-pack-starz-retroplex-color-png-icon.jpg" group-title="LATINO",LA | RETROPLEX
+http://185.134.22.150:8080/jokertv/streaming@2021/38820
+#EXTINF:-1 tvg-id="" tvg-name="LA | RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/RTS_Logo.png" group-title="LATINO",LA | RTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38822
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="LA | SHOWTIME" tvg-logo="https://www.thewrap.com/wp-content/uploads/2015/01/showtime_logo.jpg" group-title="LATINO",LA | SHOWTIME
+http://185.134.22.150:8080/jokertv/streaming@2021/38828
+#EXTINF:-1 tvg-id="SHOxBET.us" tvg-name="LA | SHOWTIME BEYOND" tvg-logo="https://www.thewrap.com/wp-content/uploads/2015/01/showtime_logo.jpg" group-title="LATINO",LA | SHOWTIME BEYOND
+http://185.134.22.150:8080/jokertv/streaming@2021/38826
 #EXTINF:-1 tvg-id="abc3ktbs.us" tvg-name="LA | SHREVEPORT | ABC KTBS" tvg-logo="https://pbs.twimg.com/profile_images/1283451458369855490/fBnrscHw.jpg" group-title="ABC LOCAL NETWORKS",LA | SHREVEPORT | ABC KTBS
 http://185.134.22.150:8080/jokertv/streaming@2021/32098
 #EXTINF:-1 tvg-id="cbs12ksla.us" tvg-name="LA | SHREVEPORT | CBS KSLA" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-states/us-local/cbs-12-ksla-us.png?raw=true" group-title="CBS LOCAL NETWORKS",LA | SHREVEPORT | CBS KSLA
 http://185.134.22.150:8080/jokertv/streaming@2021/32099
-#EXTINF:-1 tvg-id="FOXKMSS.us" tvg-name="LA | SHREVEPORT | FOX KMSS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/KMSS_2015.png/revision/latest/scale-to-width-down/200?cb=20150319143850" group-title="FOX LOCAL NETWORKS",LA | SHREVEPORT | FOX KMSS
-http://185.134.22.150:8080/jokertv/streaming@2021/32100
-#EXTINF:-1 tvg-id="NBCKTAL.us" tvg-name="LA | SHREVEPORT | NBC KTAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/KTAL_2012_Logo.png" group-title="NBC LOCAL NETWORKS",LA | SHREVEPORT | NBC KTAL
-http://185.134.22.150:8080/jokertv/streaming@2021/32101
 #EXTINF:-1 tvg-id="" tvg-name="LA | SKY SPORTS LATINO" tvg-logo="https://pbs.twimg.com/profile_images/1181996205200564225/NiXuxVyP_400x400.jpg" group-title="LATINO",LA | SKY SPORTS LATINO
 http://185.134.22.150:8080/jokertv/streaming@2021/47531
 #EXTINF:-1 tvg-id="" tvg-name="LA | SONY" tvg-logo="https://1.bp.blogspot.com/-MiotI8iBMF8/XWrn7TU6SJI/AAAAAAAAwaY/RNd6Wr_eapM0o80TJZCEOguV625iEf44gCLcBGAs/s1600/Sony-Channel-logo-2019.png" group-title="LATINO",LA | SONY
@@ -775,7 +1201,7 @@ http://185.134.22.150:8080/jokertv/streaming@2021/53733
 http://185.134.22.150:8080/jokertv/streaming@2021/53734
 #EXTINF:-1 tvg-id="Peru|| Movistar Plus" tvg-name="PE | MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_(Peru)_-_2017_logo.png" group-title="DEPORTES",PE | MOVISTAR PLUS
 http://185.134.22.150:8080/jokertv/streaming@2021/53735
-#EXTINF:-1 tvg-id="Dep|| Gol Peru SD- | Peru" tvg-name="PE | GOL PERU" tvg-logo="https://3.bp.blogspot.com/-BhA7hQ1P7Dc/W8ehyUHPv3I/AAAAAAAABIM/rlU0N-IejoAKmP1pWnqrCOlecpTb8Rn0QCLcBGAs/s1600/logo-Gol-Peru.png" group-title="PERU",PE | GOL PERU
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD- | Peru" tvg-name="PE | GOL PERU" tvg-logo="https://3.bp.blogspot.com/-BhA7hQ1P7Dc/W8ehyUHPv3I/AAAAAAAABIM/rlU0N-IejoAKmP1pWnqrCOlecpTb8Rn0QCLcBGAs/s1600/logo-Gol-Peru.png" group-title="DEPORTES",PE | GOL PERU
 http://185.134.22.150:8080/jokertv/streaming@2021/53722
 #EXTINF:-1 tvg-id="Dep|| Gol Peru SD | Peru" tvg-name="PE | GOL PERU OPC 1" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES",PE | GOL PERU OPC 1
 http://185.134.22.150:8080/jokertv/streaming@2021/53723
@@ -823,3 +1249,651 @@ http://185.134.22.150:8080/jokertv/streaming@2021/60474DEPORTES
 http://185.134.22.150:8080/jokertv/streaming@2021/38138
 #EXTINF:-1 tvg-id="" tvg-name="CO | ESPN 3" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529362343903-Imagen.png" group-title="DEPORTES",CO | ESPN 3
 http://185.134.22.150:8080/jokertv/streaming@2021/38054
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LA | SKY SPORTS LATINO" tvg-logo="https://pbs.twimg.com/profile_images/1181996205200564225/NiXuxVyP_400x400.jpg" group-title="LATINO",LA | SKY SPORTS LATINO
+http://185.134.22.150:8080/jokertv/streaming@2021/47531
+#EXTINF:-1 tvg-id="" tvg-name="LA | SONY" tvg-logo="https://1.bp.blogspot.com/-MiotI8iBMF8/XWrn7TU6SJI/AAAAAAAAwaY/RNd6Wr_eapM0o80TJZCEOguV625iEf44gCLcBGAs/s1600/Sony-Channel-logo-2019.png" group-title="LATINO",LA | SONY
+http://185.134.22.150:8080/jokertv/streaming@2021/38831
+#EXTINF:-1 tvg-id="" tvg-name="LA | SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Space_logo_2013.svg/1200px-Space_logo_2013.svg.png" group-title="LATINO",LA | SPACE
+http://185.134.22.150:8080/jokertv/streaming@2021/38832
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="LA | STARZ" tvg-logo="https://ratti-report.com/wp-content/uploads/2015/07/hqdefault.jpg" group-title="LATINO",LA | STARZ
+http://185.134.22.150:8080/jokertv/streaming@2021/38838
+#EXTINF:-1 tvg-id="StarzinBlack.us" tvg-name="LA | STARZ BLACK" tvg-logo="https://img.favpng.com/2/22/5/logo-starz-encore-television-the-movie-channel-png-favpng-GQwTj3QKrZ9a5KdzxhHzEUqeP.jpg" group-title="LATINO",LA | STARZ BLACK
+http://185.134.22.150:8080/jokertv/streaming@2021/38833
+#EXTINF:-1 tvg-id="" tvg-name="LA | STARZ CINEMA" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Cinema_200.jpg" group-title="LATINO",LA | STARZ CINEMA
+http://185.134.22.150:8080/jokertv/streaming@2021/38835
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="LA | STARZ COMEDY" tvg-logo="https://img.favpng.com/17/16/3/starz-encore-pay-television-television-channel-png-favpng-ZPFcUnTrGhsiCZqzUNGRqqGht.jpg" group-title="LATINO",LA | STARZ COMEDY
+http://185.134.22.150:8080/jokertv/streaming@2021/38837
+#EXTINF:-1 tvg-id="" tvg-name="LA | STARZ EDGE" tvg-logo="https://i1.pngguru.com/preview/1004/83/708/tv-channel-icons-pack-starz-edge-black-png-icon.jpg" group-title="LATINO",LA | STARZ EDGE
+http://185.134.22.150:8080/jokertv/streaming@2021/38839
+#EXTINF:-1 tvg-id="" tvg-name="LA | STARZ ENCORE" tvg-logo="https://www.antietambroadband.com/files/starz-starzencore-320x202.jpg" group-title="LATINO",LA | STARZ ENCORE
+http://185.134.22.150:8080/jokertv/streaming@2021/38846
+#EXTINF:-1 tvg-id="STARZENCOREClassic.us" tvg-name="LA | STARZ ENCORE CLASSIC" tvg-logo="" group-title="LATINO",LA | STARZ ENCORE CLASSIC
+http://185.134.22.150:8080/jokertv/streaming@2021/40166
+#EXTINF:-1 tvg-id="StarzEncore(English).pr" tvg-name="LA | STARZ ENCORE WESTERN" tvg-logo="" group-title="LATINO",LA | STARZ ENCORE WESTERN
+http://185.134.22.150:8080/jokertv/streaming@2021/40165
+#EXTINF:-1 tvg-id="" tvg-name="LA | STARZ FAMILY" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/starz-kids-family-200.jpg" group-title="LATINO",LA | STARZ FAMILY
+http://185.134.22.150:8080/jokertv/streaming@2021/38849
+#EXTINF:-1 tvg-id="StarzKids.us" tvg-name="LA | STARZ KIDS" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/starz-kids-family-200.jpg" group-title="LATINO",LA | STARZ KIDS
+http://185.134.22.150:8080/jokertv/streaming@2021/38851
+#EXTINF:-1 tvg-id="" tvg-name="LA | STUDIO UNIVERSAL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="LATINO",LA | STUDIO UNIVERSAL
+http://185.134.22.150:8080/jokertv/streaming@2021/38854
+#EXTINF:-1 tvg-id="" tvg-name="LA | SV CANAL 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="LATINO",LA | SV CANAL 6
+http://185.134.22.150:8080/jokertv/streaming@2021/38859
+#EXTINF:-1 tvg-id="" tvg-name="LA | SYFY" tvg-logo="https://cdn.imgbin.com/9/7/18/imgbin-sci-fi-channel-logo-television-show-nbcuniversal-leonard-nimoy-KhE3xRfeRBv3Zt01cvS0StXcs.jpg" group-title="LATINO",LA | SYFY
+http://185.134.22.150:8080/jokertv/streaming@2021/38861
+#EXTINF:-1 tvg-id="" tvg-name="LA | TBS" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/tbs_logo.png" group-title="LATINO",LA | TBS
+http://185.134.22.150:8080/jokertv/streaming@2021/38862
+#EXTINF:-1 tvg-id="TCM.co" tvg-name="LA | TCM" tvg-logo="https://i.cdn.turner.com/v5cache/TCM/images/tcm-share-1200x630.png" group-title="LATINO",LA | TCM
+http://185.134.22.150:8080/jokertv/streaming@2021/38863
+#EXTINF:-1 tvg-id="TelecentroTV(Spanish).us" tvg-name="LA | TELECENTRO" tvg-logo="https://ultimasnoticias.com.do/wp-content/uploads/2013/06/logotelecentro.gif" group-title="LATINO",LA | TELECENTRO
+http://185.134.22.150:8080/jokertv/streaming@2021/38866
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="LA | TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="LATINO",LA | TELEFE
+http://185.134.22.150:8080/jokertv/streaming@2021/38867
+#EXTINF:-1 tvg-id="" tvg-name="LA | TELEHIT" tvg-logo="https://lh4.googleusercontent.com/-Z549uVBXlOE/TXMBm3tdewI/AAAAAAAAAC8/XBSYtG9jHx8/s1600/Telehit.jpg" group-title="LATINO",LA | TELEHIT
+http://185.134.22.150:8080/jokertv/streaming@2021/38868
+#EXTINF:-1 tvg-id="" tvg-name="LA | TELEMUNDO" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/05/Telemundo-logo.jpg" group-title="LATINO",LA | TELEMUNDO
+http://185.134.22.150:8080/jokertv/streaming@2021/38870
+#EXTINF:-1 tvg-id="telewneu.us" tvg-name="LA | TELEMUNDO BOSTON" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/05/Telemundo-logo.jpg" group-title="LATINO",LA | TELEMUNDO BOSTON
+http://185.134.22.150:8080/jokertv/streaming@2021/38871
+#EXTINF:-1 tvg-id="telewsns.us" tvg-name="LA | TELEMUNDO CHICAGO" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/05/Telemundo-logo.jpg" group-title="LATINO",LA | TELEMUNDO CHICAGO
+http://185.134.22.150:8080/jokertv/streaming@2021/38872
+#EXTINF:-1 tvg-id="telemundokxtx.us" tvg-name="LA | TELEMUNDO DALLAS" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/05/Telemundo-logo.jpg" group-title="LATINO",LA | TELEMUNDO DALLAS
+http://185.134.22.150:8080/jokertv/streaming@2021/40671
+#EXTINF:-1 tvg-id="TelemundoKTMD.us" tvg-name="LA | TELEMUNDO HOUSTON" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/05/Telemundo-logo.jpg" group-title="LATINO",LA | TELEMUNDO HOUSTON
+http://185.134.22.150:8080/jokertv/streaming@2021/40682
+#EXTINF:-1 tvg-id="" tvg-name="LA | TELEMUNDO INTERNACIONAL" tvg-logo="https://www.insouthmagazine.com/wp-content/uploads/2018/12/10_telemundo_internacional_1920x1080_b2.jpg" group-title="LATINO",LA | TELEMUNDO INTERNACIONAL
+http://185.134.22.150:8080/jokertv/streaming@2021/38873
+#EXTINF:-1 tvg-id="KBLR" tvg-name="LA | TELEMUNDO LAS VEGAS" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/05/Telemundo-logo.jpg" group-title="LATINO",LA | TELEMUNDO LAS VEGAS
+http://185.134.22.150:8080/jokertv/streaming@2021/40672
+#EXTINF:-1 tvg-id="telekvea.us" tvg-name="LA | TELEMUNDO LOS ANGELES" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/05/Telemundo-logo.jpg" group-title="LATINO",LA | TELEMUNDO LOS ANGELES
+http://185.134.22.150:8080/jokertv/streaming@2021/40670
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="LA | TELEMUNDO MIAMI" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/05/Telemundo-logo.jpg" group-title="LATINO",LA | TELEMUNDO MIAMI
+http://185.134.22.150:8080/jokertv/streaming@2021/38874
+#EXTINF:-1 tvg-id="unimaswfut.us" tvg-name="LA | TELEMUNDO NEW YORK" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/05/Telemundo-logo.jpg" group-title="LATINO",LA | TELEMUNDO NEW YORK
+http://185.134.22.150:8080/jokertv/streaming@2021/38875
+#EXTINF:-1 tvg-id="TELE" tvg-name="LA | TELEMUNDO PHILADELPHIA" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/05/Telemundo-logo.jpg" group-title="LATINO",LA | TELEMUNDO PHILADELPHIA
+http://185.134.22.150:8080/jokertv/streaming@2021/40683
+#EXTINF:-1 tvg-id="KTAZ" tvg-name="LA | TELEMUNDO PHOENIX" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/05/Telemundo-logo.jpg" group-title="LATINO",LA | TELEMUNDO PHOENIX
+http://185.134.22.150:8080/jokertv/streaming@2021/40684
+#EXTINF:-1 tvg-id="" tvg-name="LA | TELENOVELAS" tvg-logo="https://cdn.mitvstatic.com/channels/6b9cacbc-43d6-4117-8f85-2f39cf26eaf1_m.jpg" group-title="LATINO",LA | TELENOVELAS
+http://185.134.22.150:8080/jokertv/streaming@2021/38881
+#EXTINF:-1 tvg-id="" tvg-name="LA | TELESISTEMA" tvg-logo="" group-title="LATINO",LA | TELESISTEMA
+http://185.134.22.150:8080/jokertv/streaming@2021/43497
+#EXTINF:-1 tvg-id="" tvg-name="LA | TELESUR" tvg-logo="https://i.imgur.com/WABbbJF.jpg" group-title="LATINO",LA | TELESUR
+http://185.134.22.150:8080/jokertv/streaming@2021/39592
+#EXTINF:-1 tvg-id="latino.tlc_latinoamerica" tvg-name="LA | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="LATINO",LA | TLC
+http://185.134.22.150:8080/jokertv/streaming@2021/38880
+#EXTINF:-1 tvg-id="" tvg-name="LA | TNT" tvg-logo="https://img.favpng.com/23/13/13/tnt-series-turner-broadcasting-system-television-logo-png-favpng-fCkt6zCb2LwdeVgwU5AxRpQ8q.jpg" group-title="LATINO",LA | TNT
+http://185.134.22.150:8080/jokertv/streaming@2021/38882
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="LA | TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="LATINO",LA | TNT SERIES
+http://185.134.22.150:8080/jokertv/streaming@2021/38883
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="LA | TNT SPORTS" tvg-logo="https://i.dlpng.com/static/png/6382466_preview.png" group-title="LATINO",LA | TNT SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38884
+#EXTINF:-1 tvg-id="Tooncast.tt.car" tvg-name="LA | TOONCAST" tvg-logo="https://i.cdn.turner.com/dr/teg/turner/release/sites/default/files/images/tooncast_left_logo.jpg" group-title="LATINO",LA | TOONCAST
+http://185.134.22.150:8080/jokertv/streaming@2021/38885
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="LA | TUDN" tvg-logo="https://i.ytimg.com/vi/d_QE601XiY0/maxresdefault.jpg" group-title="LATINO",LA | TUDN
+http://185.134.22.150:8080/jokertv/streaming@2021/39201
+#EXTINF:-1 tvg-id="TUDNX1" tvg-name="LA | TUDNXTRA 01" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://imgx.fubo.tv/station_logos/TUDNxtra1n_m.png" group-title="LATINO",LA | TUDNXTRA 01
+http://185.134.22.150:8080/jokertv/streaming@2021/59228
+#EXTINF:-1 tvg-id="53153" tvg-name="LA | TUDNXTRA 02" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://imgx.fubo.tv/station_logos/TUDNxtra2n_m.png" group-title="LATINO",LA | TUDNXTRA 02
+http://185.134.22.150:8080/jokertv/streaming@2021/59229
+#EXTINF:-1 tvg-id="TUDNX3" tvg-name="LA | TUDNXTRA 03" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://imgx.fubo.tv/station_logos/TUDNxtra3n_m.png" group-title="LATINO",LA | TUDNXTRA 03
+http://185.134.22.150:8080/jokertv/streaming@2021/59230
+#EXTINF:-1 tvg-id="TUDNX4" tvg-name="LA | TUDNXTRA 04" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://imgx.fubo.tv/station_logos/TUDNxtra4n_m.png" group-title="LATINO",LA | TUDNXTRA 04
+http://185.134.22.150:8080/jokertv/streaming@2021/59231
+#EXTINF:-1 tvg-id="TUDNX5" tvg-name="LA | TUDNXTRA 05" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://imgx.fubo.tv/station_logos/TUDNxtra5n_m.png" group-title="LATINO",LA | TUDNXTRA 05
+http://185.134.22.150:8080/jokertv/streaming@2021/59232
+#EXTINF:-1 tvg-id="TUDNX6" tvg-name="LA | TUDNXTRA 06" tvg-logo="https://sc.dish.com/shared/images/station-logos/TUX6.png" group-title="LATINO",LA | TUDNXTRA 06
+http://185.134.22.150:8080/jokertv/streaming@2021/59233
+#EXTINF:-1 tvg-id="TUDNX7" tvg-name="LA | TUDNXTRA 07" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://imgx.fubo.tv/station_logos/TUDNxtra7n_m.png" group-title="LATINO",LA | TUDNXTRA 07
+http://185.134.22.150:8080/jokertv/streaming@2021/59234
+#EXTINF:-1 tvg-id="TUDNX8" tvg-name="LA | TUDNXTRA 08" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://imgx.fubo.tv/station_logos/TUDNxtra8n_m.png" group-title="LATINO",LA | TUDNXTRA 08
+http://185.134.22.150:8080/jokertv/streaming@2021/59235
+#EXTINF:-1 tvg-id="TUDNX9" tvg-name="LA | TUDNXTRA 09" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://imgx.fubo.tv/station_logos/TUDNxtra9n_m.png" group-title="LATINO",LA | TUDNXTRA 09
+http://185.134.22.150:8080/jokertv/streaming@2021/59236
+#EXTINF:-1 tvg-id="TUDNX1" tvg-name="LA | TUDNXTRA 10" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://imgx.fubo.tv/station_logos/TUDNxtra10n_m.png" group-title="LATINO",LA | TUDNXTRA 10
+http://185.134.22.150:8080/jokertv/streaming@2021/59237
+#EXTINF:-1 tvg-id="TUDNX11" tvg-name="LA | TUDNXTRA 11" tvg-logo="https://proxy.duckduckgo.com/iu/?u=https://imgx.fubo.tv/station_logos/TUDNxtra11n_m.png" group-title="LATINO",LA | TUDNXTRA 11
+http://185.134.22.150:8080/jokertv/streaming@2021/59238
+#EXTINF:-1 tvg-id="" tvg-name="LA | TV MAS" tvg-logo="https://cmcred.com/assets/tv-mas.png" group-title="LATINO",LA | TV MAS
+http://185.134.22.150:8080/jokertv/streaming@2021/38887
+#EXTINF:-1 tvg-id="TyCSports(Spanish).us" tvg-name="LA | TYC SPORTS" tvg-logo="https://p-img.movetv.com/cms/images/764a4325e7d7d4005bc2b3e03f9815352b54a717.jpg" group-title="LATINO",LA | TYC SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38892
+#EXTINF:-1 tvg-id="" tvg-name="LA | UCSG" tvg-logo="https://image.roku.com/developer_channels/prod/f5c7ba191dbb1cd5746b2c2d96092df08ae31354fab5e7834c348c75365096e0.png" group-title="LATINO",LA | UCSG
+http://185.134.22.150:8080/jokertv/streaming@2021/38893
+#EXTINF:-1 tvg-id="" tvg-name="LA | ULTRA FAMILIA" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraFamilia_NLogo.png" group-title="LATINO",LA | ULTRA FAMILIA
+http://185.134.22.150:8080/jokertv/streaming@2021/38898
+#EXTINF:-1 tvg-id="53153" tvg-name="LA | UNIMAS ATLANTA" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/I_v/I_v_large.png" group-title="LATINO",LA | UNIMAS ATLANTA
+http://185.134.22.150:8080/jokertv/streaming@2021/40673
+#EXTINF:-1 tvg-id="KSTR" tvg-name="LA | UNIMAS CLEVELAND" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/I_v/I_v_large.png" group-title="LATINO",LA | UNIMAS CLEVELAND
+http://185.134.22.150:8080/jokertv/streaming@2021/40678
+#EXTINF:-1 tvg-id="KTFO" tvg-name="LA | UNIMAS DALLAS" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/I_v/I_v_large.png" group-title="LATINO",LA | UNIMAS DALLAS
+http://185.134.22.150:8080/jokertv/streaming@2021/40674
+#EXTINF:-1 tvg-id="KTFO" tvg-name="LA | UNIMAS HOUSTON" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/I_v/I_v_large.png" group-title="LATINO",LA | UNIMAS HOUSTON
+http://185.134.22.150:8080/jokertv/streaming@2021/40679
+#EXTINF:-1 tvg-id="KDJT" tvg-name="LA | UNIMAS LOS ANGELES" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/I_v/I_v_large.png" group-title="LATINO",LA | UNIMAS LOS ANGELES
+http://185.134.22.150:8080/jokertv/streaming@2021/40675
+#EXTINF:-1 tvg-id="WAMI" tvg-name="LA | UNIMAS MIAMI" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/I_v/I_v_large.png" group-title="LATINO",LA | UNIMAS MIAMI
+http://185.134.22.150:8080/jokertv/streaming@2021/40676
+#EXTINF:-1 tvg-id="UniMasWFUT.us" tvg-name="LA | UNIMAS NEW YORK" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/I_v/I_v_large.png" group-title="LATINO",LA | UNIMAS NEW YORK
+http://185.134.22.150:8080/jokertv/streaming@2021/38905
+#EXTINF:-1 tvg-id="" tvg-name="LA | UNIMAS PHILADELPHIA" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/I_v/I_v_large.png" group-title="LATINO",LA | UNIMAS PHILADELPHIA
+http://185.134.22.150:8080/jokertv/streaming@2021/40681
+#EXTINF:-1 tvg-id="" tvg-name="LA | UNIMAS RALEIGH" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/I_v/I_v_large.png" group-title="LATINO",LA | UNIMAS RALEIGH
+http://185.134.22.150:8080/jokertv/streaming@2021/40680
+#EXTINF:-1 tvg-id="" tvg-name="LA | UNIMAS SAN FRANCISCO" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/I_v/I_v_large.png" group-title="LATINO",LA | UNIMAS SAN FRANCISCO
+http://185.134.22.150:8080/jokertv/streaming@2021/40677
+#EXTINF:-1 tvg-id="" tvg-name="LA | UNIMAS WASHINGTON" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/I_v/I_v_large.png" group-title="LATINO",LA | UNIMAS WASHINGTON
+http://185.134.22.150:8080/jokertv/streaming@2021/38908
+#EXTINF:-1 tvg-id="" tvg-name="LA | UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="LATINO",LA | UNIVERSAL
+http://185.134.22.150:8080/jokertv/streaming@2021/38776
+#EXTINF:-1 tvg-id="" tvg-name="LA | UNIVISION CHICAGO" tvg-logo="https://st1.uvnimg.com/dims4/default/316667c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa8%2Fa8%2Fa07b20854d2f848ac3d26d57fce4%2Funivisionlogo.jpg" group-title="LATINO",LA | UNIVISION CHICAGO
+http://185.134.22.150:8080/jokertv/streaming@2021/38778
+#EXTINF:-1 tvg-id="" tvg-name="LA | UNIVISION CLEVELAND" tvg-logo="https://st1.uvnimg.com/dims4/default/316667c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa8%2Fa8%2Fa07b20854d2f848ac3d26d57fce4%2Funivisionlogo.jpg" group-title="LATINO",LA | UNIVISION CLEVELAND
+http://185.134.22.150:8080/jokertv/streaming@2021/38779
+#EXTINF:-1 tvg-id="" tvg-name="LA | UNIVISION DALLAS" tvg-logo="https://st1.uvnimg.com/dims4/default/316667c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa8%2Fa8%2Fa07b20854d2f848ac3d26d57fce4%2Funivisionlogo.jpg" group-title="LATINO",LA | UNIVISION DALLAS
+http://185.134.22.150:8080/jokertv/streaming@2021/38911
+#EXTINF:-1 tvg-id="UNIHD" tvg-name="LA | UNIVISION HOUSTON" tvg-logo="https://st1.uvnimg.com/dims4/default/316667c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa8%2Fa8%2Fa07b20854d2f848ac3d26d57fce4%2Funivisionlogo.jpg" group-title="LATINO",LA | UNIVISION HOUSTON
+http://185.134.22.150:8080/jokertv/streaming@2021/38913
+#EXTINF:-1 tvg-id="KMEX" tvg-name="LA | UNIVISION LOS ANGELES" tvg-logo="https://st1.uvnimg.com/dims4/default/316667c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa8%2Fa8%2Fa07b20854d2f848ac3d26d57fce4%2Funivisionlogo.jpg" group-title="LATINO",LA | UNIVISION LOS ANGELES
+http://185.134.22.150:8080/jokertv/streaming@2021/38780
+#EXTINF:-1 tvg-id="WLTV" tvg-name="LA | UNIVISION MIAMI" tvg-logo="https://st1.uvnimg.com/dims4/default/316667c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa8%2Fa8%2Fa07b20854d2f848ac3d26d57fce4%2Funivisionlogo.jpg" group-title="LATINO",LA | UNIVISION MIAMI
+http://185.134.22.150:8080/jokertv/streaming@2021/40667
+#EXTINF:-1 tvg-id="UnivisionWXTV.us" tvg-name="LA | UNIVISION NEW YORK" tvg-logo="https://st1.uvnimg.com/dims4/default/316667c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa8%2Fa8%2Fa07b20854d2f848ac3d26d57fce4%2Funivisionlogo.jpg" group-title="LATINO",LA | UNIVISION NEW YORK
+http://185.134.22.150:8080/jokertv/streaming@2021/40668
+#EXTINF:-1 tvg-id="" tvg-name="LA | UNIVISION PHILADELPHIA" tvg-logo="https://st1.uvnimg.com/dims4/default/316667c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa8%2Fa8%2Fa07b20854d2f848ac3d26d57fce4%2Funivisionlogo.jpg" group-title="LATINO",LA | UNIVISION PHILADELPHIA
+http://185.134.22.150:8080/jokertv/streaming@2021/40685
+#EXTINF:-1 tvg-id="UNIHD" tvg-name="LA | UNIVISION PHOENIX" tvg-logo="https://st1.uvnimg.com/dims4/default/316667c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa8%2Fa8%2Fa07b20854d2f848ac3d26d57fce4%2Funivisionlogo.jpg" group-title="LATINO",LA | UNIVISION PHOENIX
+http://185.134.22.150:8080/jokertv/streaming@2021/40686
+#EXTINF:-1 tvg-id="UNIHD" tvg-name="LA | UNIVISION RALEIGH" tvg-logo="https://st1.uvnimg.com/dims4/default/316667c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa8%2Fa8%2Fa07b20854d2f848ac3d26d57fce4%2Funivisionlogo.jpg" group-title="LATINO",LA | UNIVISION RALEIGH
+http://185.134.22.150:8080/jokertv/streaming@2021/40687
+#EXTINF:-1 tvg-id="UNIHD" tvg-name="LA | UNIVISION SALT LAKE" tvg-logo="https://st1.uvnimg.com/dims4/default/316667c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa8%2Fa8%2Fa07b20854d2f848ac3d26d57fce4%2Funivisionlogo.jpg" group-title="LATINO",LA | UNIVISION SALT LAKE
+http://185.134.22.150:8080/jokertv/streaming@2021/40688
+#EXTINF:-1 tvg-id="" tvg-name="LA | UNIVISION SAN FRANCISCO" tvg-logo="https://st1.uvnimg.com/dims4/default/316667c/2147483647/thumbnail/1240x698/quality/75/?url=http%3A%2F%2Fuvn-brightspot.s3.amazonaws.com%2Fa8%2Fa8%2Fa07b20854d2f848ac3d26d57fce4%2Funivisionlogo.jpg" group-title="LATINO",LA | UNIVISION SAN FRANCISCO
+http://185.134.22.150:8080/jokertv/streaming@2021/40669
+#EXTINF:-1 tvg-id="UNITLNO" tvg-name="LA | UNIVISION TELENOVELAS" tvg-logo="https://s22958.pcdn.co/wp-content/uploads/2017/04/tlnovelas-image.jpg" group-title="LATINO",LA | UNIVISION TELENOVELAS
+http://185.134.22.150:8080/jokertv/streaming@2021/38915
+#EXTINF:-1 tvg-id="" tvg-name="LA | VE PLUS" tvg-logo="" group-title="LATINO",LA | VE PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/36567
+#EXTINF:-1 tvg-id="" tvg-name="LA | VH1" tvg-logo="https://www.dailydot.com/wp-content/uploads/2018/11/vh1_live_stream.png" group-title="LATINO",LA | VH1
+http://185.134.22.150:8080/jokertv/streaming@2021/38917
+#EXTINF:-1 tvg-id="" tvg-name="LA | VH1 CLASSIC" tvg-logo="https://www.pngfind.com/pngs/m/371-3719148_vh1-classic-logo-png-transparent-vh-1-classic.png" group-title="LATINO",LA | VH1 CLASSIC
+http://185.134.22.150:8080/jokertv/streaming@2021/38918
+#EXTINF:-1 tvg-id="" tvg-name="LA | VTV(URUGUAY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LogoVTV2015.png" group-title="LATINO",LA | VTV(URUGUAY)
+http://185.134.22.150:8080/jokertv/streaming@2021/38919
+#EXTINF:-1 tvg-id="WarnerChannel.co" tvg-name="LA | WARNER" tvg-logo="https://www.kindpng.com/picc/m/1-13782_warner-tv-channel-logo-hd-png-download.png" group-title="LATINO",LA | WARNER
+http://185.134.22.150:8080/jokertv/streaming@2021/38923
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="LA | WIN SPORTS" tvg-logo="https://seeklogo.com/images/W/win-sports-logo-22E3EAAD99-seeklogo.com.png" group-title="LATINO",LA | WIN SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38924
+#EXTINF:-1 tvg-id="" tvg-name="LA | WIN SPORTS+" tvg-logo="https://seeklogo.com/images/W/win-sports-logo-22E3EAAD99-seeklogo.com.png" group-title="LATINO",LA | WIN SPORTS+
+http://185.134.22.150:8080/jokertv/streaming@2021/38925
+#EXTINF:-1 tvg-id="" tvg-name="LA | ZONA FUTBOL" tvg-logo="https://www.nicepng.com/png/full/206-2060818_logo-top-latino-png-top-latino-tv-logo.png" group-title="LATINO",LA | ZONA FUTBOL
+http://185.134.22.150:8080/jokertv/streaming@2021/60476
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENG 01" tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENG_1_HD.png" group-title="DEPORTES",BEIN SPORTS ENG 01
+http://185.134.22.150:8080/jokertv/streaming@2021/59051
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENG 02" tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENG_2_HD.png" group-title="DEPORTES",BEIN SPORTS ENG 02
+http://185.134.22.150:8080/jokertv/streaming@2021/59052
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENG 03" tvg-logo="https://logo.ott.ma/logo/BEINSPORT%20HD/BEIN_SPORT_ENG_3_HD.png" group-title="DEPORTES",BEIN SPORTS ENG 03
+http://185.134.22.150:8080/jokertv/streaming@2021/59053
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ES" tvg-logo="" group-title="DEPORTES",BEIN SPORTS ES
+http://185.134.22.150:8080/jokertv/streaming@2021/59054
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ES" tvg-logo="" group-title="DEPORTES",BEIN SPORTS ES
+http://185.134.22.150:8080/jokertv/streaming@2021/59055
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ESPANA ES" tvg-logo="" group-title="DEPORTES",BEIN SPORTS ESPANA ES
+http://185.134.22.150:8080/jokertv/streaming@2021/59056
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="BEIN SPORTS LA LIGA - LA" tvg-logo="https://i.ibb.co/z80RCDd/bein-laliga-c.png" group-title="DEPORTES",BEIN SPORTS LA LIGA - LA
+http://185.134.22.150:8080/jokertv/streaming@2021/59057
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LALIGA" tvg-logo="http://xtream-coders.com/x0/sports/beinsportslaligA.png" group-title="DEPORTES",BEIN SPORTS LALIGA
+http://185.134.22.150:8080/jokertv/streaming@2021/59058
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS N (LATINO AMERICA)" tvg-logo="" group-title="DEPORTES",BEIN SPORTS N (LATINO AMERICA)
+http://185.134.22.150:8080/jokertv/streaming@2021/59060
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS N LAM" tvg-logo="" group-title="DEPORTES",BEIN SPORTS N LAM
+http://185.134.22.150:8080/jokertv/streaming@2021/59061
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG | ESPN 1" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="DEPORTES",ARG | ESPN 1
+http://185.134.22.150:8080/jokertv/streaming@2021/62454
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="ARG | ESPN 1" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="DEPORTES",ARG | ESPN 1
+http://185.134.22.150:8080/jokertv/streaming@2021/62455
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="ARG | ESPN 1" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="DEPORTES",ARG | ESPN 1
+http://185.134.22.150:8080/jokertv/streaming@2021/62456
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ARG | ESPN 2" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="DEPORTES",ARG | ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62457
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ARG | ESPN 2" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="DEPORTES",ARG | ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62458
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ARG | ESPN 2" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="DEPORTES",ARG | ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62459
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="ARG | ESPN 2" tvg-logo="https://logo.iptveditor.com/espnarg.png" group-title="DEPORTES",ARG | ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62460
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ARG | ESPN 3" tvg-logo="https://logo.iptveditor.com/espn3arg.png" group-title="DEPORTES",ARG | ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62461
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ARG | ESPN 3" tvg-logo="https://logo.iptveditor.com/espn3arg.png" group-title="DEPORTES",ARG | ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62462
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ARG | ESPN 3" tvg-logo="https://logo.iptveditor.com/espn3arg.png" group-title="DEPORTES",ARG | ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62463
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ARG | ESPN 3" tvg-logo="https://logo.iptveditor.com/espn3arg.png" group-title="DEPORTES",ARG | ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62464
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="ARG | FOX SPORTS 1" tvg-logo="https://logo.iptveditor.com/foxsportsarg.png" group-title="DEPORTES",ARG | FOX SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/62466
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="ARG | FOX SPORTS 1" tvg-logo="https://logo.iptveditor.com/foxsportsarg.png" group-title="DEPORTES",ARG | FOX SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/62467
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="ARG | FOX SPORTS 1" tvg-logo="https://logo.iptveditor.com/foxsportsarg.png" group-title="DEPORTES",ARG | FOX SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/62468
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="ARG | FOX SPORTS 1" tvg-logo="https://logo.iptveditor.com/foxsportsarg.png" group-title="DEPORTES",ARG | FOX SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/62469
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="ARG | FOX SPORTS 1" tvg-logo="https://logo.iptveditor.com/foxsportsarg.png" group-title="DEPORTES",ARG | FOX SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/62470
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="ARG | FOX SPORTS 2" tvg-logo="https://logo.iptveditor.com/foxsports2arg.png" group-title="DEPORTES",ARG | FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62471
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="ARG | FOX SPORTS 2" tvg-logo="https://logo.iptveditor.com/foxsports2arg.png" group-title="DEPORTES",ARG | FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62472
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="ARG | FOX SPORTS 2" tvg-logo="https://logo.iptveditor.com/foxsports2arg.png" group-title="ARGENTINA",ARG | FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62473
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="ARG | FOX SPORTS 2" tvg-logo="https://logo.iptveditor.com/foxsports2arg.png" group-title="ARGENTINA",ARG | FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62474
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="ARG | FOX SPORTS 2" tvg-logo="https://logo.iptveditor.com/foxsports2arg.png" group-title="DEPORTES",ARG | FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62475
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="ARG | FOX SPORTS 2" tvg-logo="https://logo.iptveditor.com/foxsports2arg.png" group-title="DEPORTES",ARG | FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/62476
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="ARG | FOX SPORTS 3" tvg-logo="https://logo.iptveditor.com/foxsports3arg.png" group-title="DEPORTES",ARG | FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62477
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="ARG | FOX SPORTS 3" tvg-logo="https://logo.iptveditor.com/foxsports3arg.png" group-title="DEPORTES",ARG | FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62478
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="ARG | FOX SPORTS 3" tvg-logo="https://logo.iptveditor.com/foxsports3arg.png" group-title="DEPORTES",ARG | FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62479
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="ARG | FOX SPORTS 3" tvg-logo="https://logo.iptveditor.com/foxsports3arg.png" group-title="DEPORTES",ARG | FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/62480
+#EXTINF:-1 tvg-id="foxsportspremium.ar" tvg-name="ARG | FOX SPORTS PREMIUM" tvg-logo="https://logo.iptveditor.com/foxsportspremium.png" group-title="DEPORTES",ARG | FOX SPORTS PREMIUM
+http://185.134.22.150:8080/jokertv/streaming@2021/62481
+#EXTINF:-1 tvg-id="foxsportspremium.ar" tvg-name="ARG | FOX SPORTS PREMIUM" tvg-logo="https://logo.iptveditor.com/foxsportspremium.png" group-title="DEPORTES",ARG | FOX SPORTS PREMIUM
+http://185.134.22.150:8080/jokertv/streaming@2021/62482
+#EXTINF:-1 tvg-id="gol.es" tvg-name="ES | GOL TV" tvg-logo="https://static.goltelevision.com/uploads/gol/web/img/og-image.jpg" group-title="DEPORTES",ES | GOL TV
+http://185.134.22.150:8080/jokertv/streaming@2021/36474
+
+#EXTINF:-1 tvg-id="Ecuador|| Gol TV-HD" tvg-name="EC | GOL TV" tvg-logo="https://cdn.mitvstatic.com/channels/6b340093-ac48-4be8-ac96-69d63ad09c26_m.jpg" group-title="DEPORTES",EC | GOL TV
+http://185.134.22.150:8080/jokertv/streaming@2021/46563
+#EXTINF:-1 tvg-id="Ecuador|| GOL TV ECUADOR SD" tvg-name="EC | GOL TV ECUADOR" tvg-logo="https://cdn.mitvstatic.com/channels/6b340093-ac48-4be8-ac96-69d63ad09c26_m.jpg" group-title="DEPORTES",EC | GOL TV ECUADOR
+http://185.134.22.150:8080/jokertv/streaming@2021/46596
+#EXTINF:-1 tvg-id="Dep|| Gol TV | Ecuador" tvg-name="EC | GOL TV ECUADOR" tvg-logo="https://cdn.mitvstatic.com/channels/6b340093-ac48-4be8-ac96-69d63ad09c26_m.jpg" group-title="DEPORTES",EC | GOL TV ECUADOR
+http://185.134.22.150:8080/jokertv/streaming@2021/46597
+#EXTINF:-1 tvg-id="ECUADOR | GOLTV INTERNACIONAL :)" tvg-name="EC | GOLTV INTERNACIONAL" tvg-logo="https://cdn.mitvstatic.com/channels/6b340093-ac48-4be8-ac96-69d63ad09c26_m.jpg" group-title="DEPORTES",EC | GOLTV INTERNACIONAL
+http://185.134.22.150:8080/jokertv/streaming@2021/46586
+
+
+#EXTINF:-1 tvg-id="Dep|| Tnt Sports" tvg-name="CL | TNT SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1410282401754927104/vuyUXYnE_400x400.jpg" group-title="DEPORTES",CL | TNT SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/56621
+#EXTINF:-1 tvg-id="Dep|| Tnt Sports" tvg-name="CL | TNT SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1410282401754927104/vuyUXYnE_400x400.jpg" group-title="DEPORTES",CL | TNT SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/56628
+#EXTINF:-1 tvg-id="Dep|| Tnt Sports" tvg-name="CL | TNT SPORTS 2" tvg-logo="https://www.entel.cl/public/logos/canales/tnt-sports-2.png" group-title="DEPORTES",CL | TNT SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/56637
+#EXTINF:-1 tvg-id="CL || CDF Premium &gt;)" tvg-name="CL | TNT SPORTS 2" tvg-logo="https://www.entel.cl/public/logos/canales/tnt-sports-2.png" group-title="DEPORTES",CL | TNT SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/56638
+#EXTINF:-1 tvg-id="Dep|| Tnt Sports" tvg-name="CL | TNT SPORTS 3" tvg-logo="https://pbs.twimg.com/profile_images/1410282401754927104/vuyUXYnE_400x400.jpg" group-title="DEPORTES",CL | TNT SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/56622
+
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX SPORTS 1" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548942903997-Imagen.png" group-title="DEPORTES",CO | FOX SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/38133
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX SPORTS 2" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529361811475-Imagen.png" group-title="DEPORTES",CO | FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38132
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX SPORTS 3" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/33a9a5e1b0d1778d8d5007277f5e0c74.jpg" group-title="DEPORTES",CO | FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38057
+#EXTINF:-1 tvg-id="TyCSports(Spanish).us" tvg-name="LA | TYC SPORTS" tvg-logo="https://p-img.movetv.com/cms/images/764a4325e7d7d4005bc2b3e03f9815352b54a717.jpg" group-title="DEPORTES",LA | TYC SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38892
+
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="ARG | TYC SPORTS" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="DEPORTES",ARG | TYC SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/62546
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="ARG | TYC SPORTS" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="DEPORTES",ARG | TYC SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/62547
+
+#EXTINF:-1 tvg-id="CHILE || CL CDF HD *" tvg-name="CL | CDF" tvg-logo="https://i.ytimg.com/vi/rWHS0YfTTfc/hqdefault.jpg" group-title="DEPORTES",CL | CDF
+http://185.134.22.150:8080/jokertv/streaming@2021/56627
+#EXTINF:-1 tvg-id="Chile|| CDF HD." tvg-name="CL | CDF" tvg-logo="https://i.ytimg.com/vi/rWHS0YfTTfc/hqdefault.jpg" group-title="DEPORTES",CL | CDF
+http://185.134.22.150:8080/jokertv/streaming@2021/56700
+
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="ES | BARCA TV" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Barcelona-Logo.png" group-title="DEPORTES",ES | BARCA TV
+http://185.134.22.150:8080/jokertv/streaming@2021/36470
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="ES | BE MAD TV" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="DEPORTES",ES | BE MAD TV
+http://185.134.22.150:8080/jokertv/streaming@2021/36562
+
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES | MOVISTAR DEPORTES" tvg-logo="https://www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png" group-title="DEPORTES",ES | MOVISTAR DEPORTES
+http://185.134.22.150:8080/jokertv/streaming@2021/36590
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES | MOVISTAR DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="DEPORTES",ES | MOVISTAR DEPORTES 1
+http://185.134.22.150:8080/jokertv/streaming@2021/36459
+#EXTINF:-1 tvg-id="Peru|| Movistar Deportes" tvg-name="PE | MOVISTAR DEPORTES" tvg-logo="https://yt3.ggpht.com/a/AGF-l78sfeqzL30fHGIfxlTwY4jL4PG8lIZAJ2YZVQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="DEPORTES",PE | MOVISTAR DEPORTES
+http://185.134.22.150:8080/jokertv/streaming@2021/53733
+#EXTINF:-1 tvg-id="Peru|| Movistar Deportes" tvg-name="PE | MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_(Peru)_-_2017_logo.png" group-title="DEPORTES",PE | MOVISTAR PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/53734
+#EXTINF:-1 tvg-id="Peru|| Movistar Plus" tvg-name="PE | MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_(Peru)_-_2017_logo.png" group-title="DEPORTES",PE | MOVISTAR PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/53735
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD- | Peru" tvg-name="PE | GOL PERU" tvg-logo="https://3.bp.blogspot.com/-BhA7hQ1P7Dc/W8ehyUHPv3I/AAAAAAAABIM/rlU0N-IejoAKmP1pWnqrCOlecpTb8Rn0QCLcBGAs/s1600/logo-Gol-Peru.png" group-title="DEPORTES",PE | GOL PERU
+http://185.134.22.150:8080/jokertv/streaming@2021/53722
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD | Peru" tvg-name="PE | GOL PERU OPC 1" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES",PE | GOL PERU OPC 1
+http://185.134.22.150:8080/jokertv/streaming@2021/53723
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD | Peru" tvg-name="PE | GOL PERU OPC 2" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES",PE | GOL PERU OPC 2
+http://185.134.22.150:8080/jokertv/streaming@2021/53724
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD | Peru" tvg-name="PE | GOL PERU OPC 3" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES",PE | GOL PERU OPC 3
+http://185.134.22.150:8080/jokertv/streaming@2021/53725
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD- | Peru" tvg-name="PE | GOL PERU OPC 4" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES",PE | GOL PERU OPC 4
+http://185.134.22.150:8080/jokertv/streaming@2021/53726
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD- | Peru" tvg-name="PE | GOL PERU VIP" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES",PE | GOL PERU VIP
+http://185.134.22.150:8080/jokertv/streaming@2021/53727
+#EXTINF:-1 tvg-id="" tvg-name="LA | DIRECTV SPORT 1" tvg-logo="https://www.directv.com.ve/img/directv-logo-fb-150x150.jpg" group-title="DEPORTES",LA | DIRECTV SPORT 1
+http://185.134.22.150:8080/jokertv/streaming@2021/38634
+#EXTINF:-1 tvg-id="DIRECTVSports2.ar" tvg-name="LA | DIRECTV SPORT 2" tvg-logo="https://www.directv.com.ve/img/directv-logo-fb-150x150.jpg" group-title="DEPORTES",LA | DIRECTV SPORT 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38635
+#EXTINF:-1 tvg-id="" tvg-name="LA | DIRECTV SPORT PLUS" tvg-logo="https://www.directv.com.ve/img/directv-logo-fb-150x150.jpg" group-title="DEPORTES",LA | DIRECTV SPORT PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38638
+#EXTINF:-1 tvg-id="GOL(src1).es" tvg-name="LA | (PER) GOL PERU" tvg-logo="https://www.dropbox.com/s/qtqj7k5l8ykhcy2/golperu.png?dl=1" group-title="DEPORTES",LA | (PER) GOL PERU
+http://185.134.22.150:8080/jokertv/streaming@2021/40154
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="MX | ESPN" tvg-logo="https://www.dropbox.com/s/bwa3ue8cdy545o7/espn_us.png?dl=1" group-title="DEPORTES",MX | ESPN
+http://185.134.22.150:8080/jokertv/streaming@2021/38379
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="MX | ESPN 2" tvg-logo="https://www.dropbox.com/s/wr3oh3jvwsw63ow/espn_2.png?dl=1" group-title="DEPORTES",MX | ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38377
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="MX | ESPN 3" tvg-logo="https://www.dropbox.com/s/uzdb0wnormt8j2t/espn_3_lam.png?dl=1" group-title="DEPORTES",MX | ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38378
+#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN PLUS" tvg-logo="https://www.dropbox.com/s/ymd3bl5o9c9tjs9/espn_us_plus.png?dl=1" group-title="DEPORTES",MX | ESPN PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38381
+#EXTINF:-1 tvg-id="ESPNU(English).mx" tvg-name="MX | ESPN U" tvg-logo="https://www.dropbox.com/s/majqokveprol8kb/espn_u.png?dl=1" group-title="DEPORTES",MX | ESPN U
+http://185.134.22.150:8080/jokertv/streaming@2021/38382
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS" tvg-logo="http://mylatinotv.com:8080/images/mexico/win.png" group-title="DEPORTES",CO | WIN SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38062
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS+" tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="DEPORTES",CO | WIN SPORTS+
+http://185.134.22.150:8080/jokertv/streaming@2021/38140
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX SOCCER PLUS" tvg-logo="https://panel.tvmasplus.com/Genesis/Video/Spa/Image/tv/_Fox_Soccer_Plus.jpg" group-title="DEPORTES",CO | FOX SOCCER PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38137
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX SPORTS 1" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548942903997-Imagen.png" group-title="DEPORTES",CO | FOX SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/38133
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX SPORTS 2" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529361811475-Imagen.png" group-title="DEPORTES",CO | FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38132
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX SPORTS 3" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/33a9a5e1b0d1778d8d5007277f5e0c74.jpg" group-title="DEPORTES",CO | FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38057
+#EXTINF:-1 tvg-id="" tvg-name="CO | ESPN" tvg-logo="" group-title="COLOMBIA",CO | ESPN
+http://185.134.22.150:8080/jokertv/streaming@2021/60474DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="CO | ESPN 2" tvg-logo="http://images.mi.tv/channels/ar_espn-2_m.png" group-title="DEPORTES",CO | ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38138
+#EXTINF:-1 tvg-id="" tvg-name="CO | ESPN 3" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529362343903-Imagen.png" group-title="DEPORTES",CO | ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38054
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CO | AE MUNDO" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/ae-ogo-01-1080x1080.png" group-title="CINE PRIMIUM",CO | AE MUNDO
+http://185.134.22.150:8080/jokertv/streaming@2021/38038
+#EXTINF:-1 tvg-id="" tvg-name="CO | AMC" tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/730-AMC-HD-01.jpg" group-title="CINE PRIMIUM",CO | AMC
+http://185.134.22.150:8080/jokertv/streaming@2021/38040
+#EXTINF:-1 tvg-id="" tvg-name="CO | ANIMAL PLANET" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1547673114045-Imagen.png" group-title="CINE PRIMIUM",CO | ANIMAL PLANET
+http://185.134.22.150:8080/jokertv/streaming@2021/38041
+#EXTINF:-1 tvg-id="" tvg-name="CO | AXN" tvg-logo="http://images.mi.tv/channels/co_axn_m.png" group-title="CINE PRIMIUM",CO | AXN
+http://185.134.22.150:8080/jokertv/streaming@2021/38042
+#EXTINF:-1 tvg-id="" tvg-name="CO | BLOOMBERG" tvg-logo="https://www.wola.org/wp-content/uploads/2016/03/bloomberg-logo-vector-400x400-300x300.png" group-title="CINE PRIMIUM",CO | BLOOMBERG
+http://185.134.22.150:8080/jokertv/streaming@2021/38046
+#EXTINF:-1 tvg-id="" tvg-name="CO | BOOMERANG" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529359507279-Imagen.png" group-title="CINE PRIMIUM",CO | BOOMERANG
+http://185.134.22.150:8080/jokertv/streaming@2021/38047
+#EXTINF:-1 tvg-id="" tvg-name="CO | CINECANAL" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/d416a6095b820ad1a9e7d365b1fdc462.jpg" group-title="CINE PRIMIUM",CO | CINECANAL
+http://185.134.22.150:8080/jokertv/streaming@2021/38096
+#EXTINF:-1 tvg-id="" tvg-name="CO | CINEMAX" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1563464671525-Imagen.png" group-title="CINE PRIMIUM",CO | CINEMAX
+http://185.134.22.150:8080/jokertv/streaming@2021/38082
+#EXTINF:-1 tvg-id="" tvg-name="CO | DHE" tvg-logo="https://pbs.twimg.com/profile_images/1153362803593535490/6pM8cx04_400x400.jpg" group-title="CINE PRIMIUM",CO | DHE
+http://185.134.22.150:8080/jokertv/streaming@2021/38118
+#EXTINF:-1 tvg-id="" tvg-name="CO | DISCOVERY CHANNEL" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524665339624-Imagen.jpg" group-title="CINE PRIMIUM",CO | DISCOVERY CHANNEL
+http://185.134.22.150:8080/jokertv/streaming@2021/38087
+#EXTINF:-1 tvg-id="" tvg-name="CO | DISCOVERY CIVILIZATION" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="CINE PRIMIUM",CO | DISCOVERY CIVILIZATION
+http://185.134.22.150:8080/jokertv/streaming@2021/38088
+#EXTINF:-1 tvg-id="" tvg-name="CO | DISCOVERY HOME HEALTH" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752058856-Imagen.png" group-title="CINE PRIMIUM",CO | DISCOVERY HOME HEALTH
+http://185.134.22.150:8080/jokertv/streaming@2021/38086
+#EXTINF:-1 tvg-id="" tvg-name="CO | DISCOVERY KIDS" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1550859035847-Imagen.png" group-title="CINE PRIMIUM",CO | DISCOVERY KIDS
+http://185.134.22.150:8080/jokertv/streaming@2021/38113
+#EXTINF:-1 tvg-id="" tvg-name="CO | DISCOVERY SCIENCE" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082015/discovery-science.png" group-title="CINE PRIMIUM",CO | DISCOVERY SCIENCE
+http://185.134.22.150:8080/jokertv/streaming@2021/38115
+#EXTINF:-1 tvg-id="" tvg-name="CO | DISCOVERY THEATER" tvg-logo="https://images.mi.tv/channels/mx_discovery-hd-theater_m.png" group-title="CINE PRIMIUM",CO | DISCOVERY THEATER
+http://185.134.22.150:8080/jokertv/streaming@2021/38095
+#EXTINF:-1 tvg-id="" tvg-name="CO | DISCOVERY TURBO" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1527802508384-Imagen.png" group-title="CINE PRIMIUM",CO | DISCOVERY TURBO
+http://185.134.22.150:8080/jokertv/streaming@2021/38114
+#EXTINF:-1 tvg-id="" tvg-name="CO | DISCOVERY WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CINE PRIMIUM",CO | DISCOVERY WORLD
+http://185.134.22.150:8080/jokertv/streaming@2021/38094
+#EXTINF:-1 tvg-id="" tvg-name="CO | DISNEY" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1557858795286-Imagen.jpg" group-title="CINE PRIMIUM",CO | DISNEY
+http://185.134.22.150:8080/jokertv/streaming@2021/38122
+#EXTINF:-1 tvg-id="" tvg-name="CO | DISNEY JR" tvg-logo="https://i.pinimg.com/736x/e7/c9/28/e7c9282d986c9ea4a76575456b9c53c1--jeux-disney-disney-jr.jpg" group-title="CINE PRIMIUM",CO | DISNEY JR
+http://185.134.22.150:8080/jokertv/streaming@2021/38125
+#EXTINF:-1 tvg-id="" tvg-name="CO | DISNEY XD" tvg-logo="https://www.liveonlinetv247.info/images/disneyxd.png" group-title="CINE PRIMIUM",CO | DISNEY XD
+http://185.134.22.150:8080/jokertv/streaming@2021/38103
+#EXTINF:-1 tvg-id="" tvg-name="CO | DW" tvg-logo="https://pbs.twimg.com/profile_images/900261211509489666/-1Fu5hU8_400x400.jpg" group-title="CINE PRIMIUM",CO | DW
+http://185.134.22.150:8080/jokertv/streaming@2021/38116
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/d3b386d89f2560ca6a5e0ffdabea415b.jpg" group-title="CINE PRIMIUM",CO | FOX
+http://185.134.22.150:8080/jokertv/streaming@2021/38069
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX ACTION" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689374818-Imagen.png" group-title="CINE PRIMIUM",CO | FOX ACTION
+http://185.134.22.150:8080/jokertv/streaming@2021/38127
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX CINEMA" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/d3b386d89f2560ca6a5e0ffdabea415b.jpg" group-title="CINE PRIMIUM",CO | FOX CINEMA
+http://185.134.22.150:8080/jokertv/streaming@2021/38097
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX CLASSICS" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689000204-Imagen.png" group-title="CINE PRIMIUM",CO | FOX CLASSICS
+http://185.134.22.150:8080/jokertv/streaming@2021/38098
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX COMEDY" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689411743-Imagen.png" group-title="CINE PRIMIUM",CO | FOX COMEDY
+http://185.134.22.150:8080/jokertv/streaming@2021/38117
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX FAMILY" tvg-logo="https://s15.postimg.cc/46p729qzv/1016.png" group-title="CINE PRIMIUM",CO | FOX FAMILY
+http://185.134.22.150:8080/jokertv/streaming@2021/38129
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX LIFE" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/8bdc5e4899545c266a5385a08a794bdf.jpg" group-title="CINE PRIMIUM",CO | FOX LIFE
+http://185.134.22.150:8080/jokertv/streaming@2021/38101
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX MOVIES" tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_movies.jpg" group-title="CINE PRIMIUM",CO | FOX MOVIES
+http://185.134.22.150:8080/jokertv/streaming@2021/38109
+
+#EXTINF:-1 tvg-id="" tvg-name="CO | FX" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/d97/d97_large.png" group-title="CINE PRIMIUM",CO | FX
+http://185.134.22.150:8080/jokertv/streaming@2021/38106
+#EXTINF:-1 tvg-id="" tvg-name="CO | FXM" tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" group-title="CINE PRIMIUM",CO | FXM
+http://185.134.22.150:8080/jokertv/streaming@2021/38139
+#EXTINF:-1 tvg-id="" tvg-name="CO | GOLDEN" tvg-logo="http://mylatinotv.com:8080/images/mexico/goldenedge.png" group-title="CINE PRIMIUM",CO | GOLDEN
+http://185.134.22.150:8080/jokertv/streaming@2021/38111
+
+#EXTINF:-1 tvg-id="" tvg-name="CO | H2" tvg-logo="https://i.imgur.com/B94B5j8.jpg" group-title="CINE PRIMIUM",CO | H2
+http://185.134.22.150:8080/jokertv/streaming@2021/38090
+#EXTINF:-1 tvg-id="" tvg-name="CO | HBO" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="CINE PRIMIUM",CO | HBO
+http://185.134.22.150:8080/jokertv/streaming@2021/38135
+#EXTINF:-1 tvg-id="" tvg-name="CO | HBO 2" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548948320646-Imagen.jpg" group-title="CINE PRIMIUM",CO | HBO 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38083
+#EXTINF:-1 tvg-id="" tvg-name="CO | HBO FAMILY" tvg-logo="http://www.vector-logo.net/logo_preview/eps/h/HBO_Family.png" group-title="CINE PRIMIUM",CO | HBO FAMILY
+http://185.134.22.150:8080/jokertv/streaming@2021/38107
+#EXTINF:-1 tvg-id="" tvg-name="CO | HBO PLUS" tvg-logo="https://d1oq4398v5395a.cloudfront.net/LOGOS/canales/1532.png" group-title="CINE PRIMIUM",CO | HBO PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38128
+#EXTINF:-1 tvg-id="" tvg-name="CO | HBO SIGNATURE" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1544129519878-Imagen.jpg" group-title="CINE PRIMIUM",CO | HBO SIGNATURE
+http://185.134.22.150:8080/jokertv/streaming@2021/38068
+#EXTINF:-1 tvg-id="" tvg-name="CO | HISTORY CHANNEL" tvg-logo="http://i.imgur.com/MlCSW.png" group-title="CINE PRIMIUM",CO | HISTORY CHANNEL
+http://185.134.22.150:8080/jokertv/streaming@2021/38091
+#EXTINF:-1 tvg-id="" tvg-name="CO | NAT GEO" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529351992972-Imagen.png" group-title="CINE PRIMIUM",CO | NAT GEO
+http://185.134.22.150:8080/jokertv/streaming@2021/38089
+#EXTINF:-1 tvg-id="" tvg-name="CO | NAT GEO KIDS" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-NatGeokidsLA.png" group-title="CINE PRIMIUM",CO | NAT GEO KIDS
+http://185.134.22.150:8080/jokertv/streaming@2021/38112
+#EXTINF:-1 tvg-id="" tvg-name="CO | NAT GEO WILD" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/215.png" group-title="CINE PRIMIUM",CO | NAT GEO WILD
+http://185.134.22.150:8080/jokertv/streaming@2021/38100
+#EXTINF:-1 tvg-id="" tvg-name="CO | NICK JR" tvg-logo="https://3.bp.blogspot.com/_YkZZPo1aKZU/SRJWjp78BiI/AAAAAAAAE7A/8-qgkroFK_0/s400/nick-jr.gif" group-title="CINE PRIMIUM",CO | NICK JR
+http://185.134.22.150:8080/jokertv/streaming@2021/38085
+#EXTINF:-1 tvg-id="" tvg-name="CO | NICKELODEON" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529363227239-Imagen.jpg" group-title="CINE PRIMIUM",CO | NICKELODEON
+http://185.134.22.150:8080/jokertv/streaming@2021/38108
+#EXTINF:-1 tvg-id="" tvg-name="CO | SONY" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1566410952966-Imagen.png" group-title="CINE PRIMIUM",CO | SONY
+http://185.134.22.150:8080/jokertv/streaming@2021/38079
+#EXTINF:-1 tvg-id="" tvg-name="CO | STUDIO UNIVERSAL" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/5e8b791086401ce466de03ef4ca718c1.jpg" group-title="CINE PRIMIUM",CO | STUDIO UNIVERSAL
+http://185.134.22.150:8080/jokertv/streaming@2021/38067
+#EXTINF:-1 tvg-id="" tvg-name="CO | TNT" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/ed3a52986cb531351d4bc984a0795c61.jpg" group-title="CINE PRIMIUM",CO | TNT
+http://185.134.22.150:8080/jokertv/streaming@2021/38105
+#EXTINF:-1 tvg-id="WarnerChannel.co" tvg-name="LA | WARNER" tvg-logo="https://www.kindpng.com/picc/m/1-13782_warner-tv-channel-logo-hd-png-download.png" group-title="CINE PRIMIUM",LA | WARNER
+http://185.134.22.150:8080/jokertv/streaming@2021/38923
+#EXTINF:-1 tvg-id="" tvg-name="LA | TNT" tvg-logo="https://img.favpng.com/23/13/13/tnt-series-turner-broadcasting-system-television-logo-png-favpng-fCkt6zCb2LwdeVgwU5AxRpQ8q.jpg" group-title="CINE PRIMIUM",LA | TNT
+http://185.134.22.150:8080/jokertv/streaming@2021/38882
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="LA | TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="CINE PRIMIUM",LA | TNT SERIES
+http://185.134.22.150:8080/jokertv/streaming@2021/38883
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="LA | TNT SPORTS" tvg-logo="https://i.dlpng.com/static/png/6382466_preview.png" group-title="CINE PRIMIUM",LA | TNT SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38884
+#EXTINF:-1 tvg-id="Tooncast.tt.car" tvg-name="LA | TOONCAST" tvg-logo="https://i.cdn.turner.com/dr/teg/turner/release/sites/default/files/images/tooncast_left_logo.jpg" group-title="CINE PRIMIUM",LA | TOONCAST
+http://185.134.22.150:8080/jokertv/streaming@2021/38885
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="LA | TUDN" tvg-logo="https://i.ytimg.com/vi/d_QE601XiY0/maxresdefault.jpg" group-title="CINE PRIMIUM",LA | TUDN
+http://185.134.22.150:8080/jokertv/streaming@2021/39201
+#EXTINF:-1 tvg-id="" tvg-name="LA | STUDIO UNIVERSAL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" group-title="CINE PRIMIUM",LA | STUDIO UNIVERSAL
+http://185.134.22.150:8080/jokertv/streaming@2021/38854
+#EXTINF:-1 tvg-id="StarzinBlack.us" tvg-name="LA | STARZ BLACK" tvg-logo="https://img.favpng.com/2/22/5/logo-starz-encore-television-the-movie-channel-png-favpng-GQwTj3QKrZ9a5KdzxhHzEUqeP.jpg" group-title="CINE PRIMIUM",LA | STARZ BLACK
+http://185.134.22.150:8080/jokertv/streaming@2021/38833
+#EXTINF:-1 tvg-id="" tvg-name="LA | STARZ CINEMA" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/Starz_Cinema_200.jpg" group-title="CINE PRIMIUM",LA | STARZ CINEMA
+http://185.134.22.150:8080/jokertv/streaming@2021/38835
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="LA | STARZ COMEDY" tvg-logo="https://img.favpng.com/17/16/3/starz-encore-pay-television-television-channel-png-favpng-ZPFcUnTrGhsiCZqzUNGRqqGht.jpg" group-title="CINE PRIMIUM",LA | STARZ COMEDY
+http://185.134.22.150:8080/jokertv/streaming@2021/38837
+#EXTINF:-1 tvg-id="" tvg-name="LA | STARZ EDGE" tvg-logo="https://i1.pngguru.com/preview/1004/83/708/tv-channel-icons-pack-starz-edge-black-png-icon.jpg" group-title="CINE PRIMIUM",LA | STARZ EDGE
+http://185.134.22.150:8080/jokertv/streaming@2021/38839
+#EXTINF:-1 tvg-id="" tvg-name="LA | STARZ ENCORE" tvg-logo="https://www.antietambroadband.com/files/starz-starzencore-320x202.jpg" group-title="CINE PRIMIUM",LA | STARZ ENCORE
+http://185.134.22.150:8080/jokertv/streaming@2021/38846
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LA | SONY" tvg-logo="https://1.bp.blogspot.com/-MiotI8iBMF8/XWrn7TU6SJI/AAAAAAAAwaY/RNd6Wr_eapM0o80TJZCEOguV625iEf44gCLcBGAs/s1600/Sony-Channel-logo-2019.png" group-title="CINE PRIMIUM",LA | SONY
+http://185.134.22.150:8080/jokertv/streaming@2021/38831
+#EXTINF:-1 tvg-id="" tvg-name="LA | SPACE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Space_logo_2013.svg/1200px-Space_logo_2013.svg.png" group-title="CINE PRIMIUM",LA | SPACE
+http://185.134.22.150:8080/jokertv/streaming@2021/38832
+#EXTINF:-1 tvg-id="PARAMOUNT(src1).es" tvg-name="LA | PARAMOUNT" tvg-logo="https://www.graphis.com/media/uploads/cache/ae/a8/aea8ad2078191d4e9153c6e34fd22808.jpg" group-title="CINE PRIMIUM",LA | PARAMOUNT
+http://185.134.22.150:8080/jokertv/streaming@2021/38805
+#EXTINF:-1 tvg-id="~ SD NICK 2" tvg-name="LA | NICK 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nick_2_logo_%282010%29.svg/1280px-Nick_2_logo_%282010%29.svg.png" group-title="CINE PRIMIUM",LA | NICK 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38772
+#EXTINF:-1 tvg-id="" tvg-name="LA | NICK JUNIOR" tvg-logo="https://pbs.twimg.com/profile_images/378800000690368946/51cc659f421f9ab3a482ffd7e8c34ad1_400x400.jpeg" group-title="CINE PRIMIUM",LA | NICK JUNIOR
+http://185.134.22.150:8080/jokertv/streaming@2021/38773
+#EXTINF:-1 tvg-id="" tvg-name="LA | NICKELODEAN" tvg-logo="https://i.ytimg.com/vi/SF9-_MaTbs0/maxresdefault.jpg" group-title="CINE PRIMIUM",LA | NICKELODEAN
+http://185.134.22.150:8080/jokertv/streaming@2021/38774
+#EXTINF:-1 tvg-id="" tvg-name="LA | NICKTOONS" tvg-logo="https://i.ytimg.com/vi/cjbDjSKN9As/maxresdefault.jpg" group-title="CINE PRIMIUM",LA | NICKTOONS
+http://185.134.22.150:8080/jokertv/streaming@2021/38775
+#EXTINF:-1 tvg-id="" tvg-name="LA | NAT GEO" tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450.jpg" group-title="CINE PRIMIUM",LA | NAT GEO
+http://185.134.22.150:8080/jokertv/streaming@2021/38764
+#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="LA | NAT GEO KIDS" tvg-logo="https://staticr1.blastingcdn.com/media/photogallery/2017/7/5/660x290/b_1200x675/logo-de-natgeokids-imagen-cortesia_1427105.jpg" group-title="CINE PRIMIUM",LA | NAT GEO KIDS
+http://185.134.22.150:8080/jokertv/streaming@2021/38765
+#EXTINF:-1 tvg-id="NATGEOWILD(src1).es" tvg-name="LA | NAT GEO WILD" tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="CINE PRIMIUM",LA | NAT GEO WILD
+http://185.134.22.150:8080/jokertv/streaming@2021/38768
+#EXTINF:-1 tvg-id="" tvg-name="LA | MAX" tvg-logo="https://topisraelinterns.com/wp-content/uploads/2017/09/MAX-LOGO-441x355.jpg" group-title="CINE PRIMIUM",LA | MAX
+http://185.134.22.150:8080/jokertv/streaming@2021/38750
+#EXTINF:-1 tvg-id="HBOXtreme.co" tvg-name="LA | MAX PRIME" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad7f8411572449.560f9d66db86b.jpg" group-title="CINE PRIMIUM",LA | MAX PRIME
+http://185.134.22.150:8080/jokertv/streaming@2021/38751
+#EXTINF:-1 tvg-id="" tvg-name="LA | H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="CINE PRIMIUM",LA | H2
+http://185.134.22.150:8080/jokertv/streaming@2021/38725
+#EXTINF:-1 tvg-id="" tvg-name="LA | HBO" tvg-logo="https://static-wmg.warnermediacdn.com/blog/images/hbo-logo.jpg" group-title="CINE PRIMIUM",LA | HBO
+http://185.134.22.150:8080/jokertv/streaming@2021/38730
+#EXTINF:-1 tvg-id="" tvg-name="LA | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="CINE PRIMIUM",LA | HBO 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38726
+#EXTINF:-1 tvg-id="" tvg-name="LA | HBO FAMILY" tvg-logo="https://www.pngitem.com/pimgs/m/287-2873927_hbo-family-channel-logo-hd-png-download.png" group-title="CINE PRIMIUM",LA | HBO FAMILY
+http://185.134.22.150:8080/jokertv/streaming@2021/38729
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="LA | HBO PLUS" tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/763-HBO-PlusHD.jpg" group-title="CINE PRIMIUM",LA | HBO PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38731
+#EXTINF:-1 tvg-id="" tvg-name="LA | HBO SIGNATURE" tvg-logo="https://www.tvchinese.net/uploads/tv/hbosignature.jpg" group-title="CINE PRIMIUM",LA | HBO SIGNATURE
+http://185.134.22.150:8080/jokertv/streaming@2021/38733
+#EXTINF:-1 tvg-id="" tvg-name="LA | HISTORY CHANNEL" tvg-logo="https://tv.bt.com/images/history-on-bt-tv-136409750331702601-160920230649.jpg" group-title="CINE PRIMIUM",LA | HISTORY CHANNEL
+http://185.134.22.150:8080/jokertv/streaming@2021/38738
+#EXTINF:-1 tvg-id="Golden.co" tvg-name="LA | GOLDEN" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i15278ffc3f86db9c/version/1470080571/image.png" group-title="CINE PRIMIUM",LA | GOLDEN
+http://185.134.22.150:8080/jokertv/streaming@2021/38710
+#EXTINF:-1 tvg-id="" tvg-name="LA | GOLDEN EDGE" tvg-logo="https://2.bp.blogspot.com/-1mvY7DMJnp4/Vf0QbDpj1nI/AAAAAAAAAa0/GGcIOYGe0vE/s1600/Menu-Senales-GoldenEDGE.jpg" group-title="CINE PRIMIUM",LA | GOLDEN EDGE
+http://185.134.22.150:8080/jokertv/streaming@2021/38711
+#EXTINF:-1 tvg-id="GOLDENPLUS.co" tvg-name="LA | GOLDEN PLUS" tvg-logo="https://farm5.static.flickr.com/4683/39199446922_0b81e3e488.jpg" group-title="CINE PRIMIUM",LA | GOLDEN PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38712
+#EXTINF:-1 tvg-id="" tvg-name="LA | GOLDEN PREMIER" tvg-logo="https://images.mi.tv/channels/co_golden-premier-hd_m.png" group-title="CINE PRIMIUM",LA | GOLDEN PREMIER
+http://185.134.22.150:8080/jokertv/streaming@2021/38713
+
+#EXTINF:-1 tvg-id="" tvg-name="LA | FX" tvg-logo="https://i.pinimg.com/originals/26/67/cc/2667cc6d48b116b21fe3be2f81d19dd1.jpg" group-title="CINE PRIMIUM",LA | FX
+http://185.134.22.150:8080/jokertv/streaming@2021/38702
+#EXTINF:-1 tvg-id="FXMovies.co" tvg-name="LA | FILM ZONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Film_zone.png" group-title="CINE PRIMIUM",LA | FILM ZONE
+http://185.134.22.150:8080/jokertv/streaming@2021/38674
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNDg4MDQ0ODUyNTYw/foxnetworksgrouplogoresizedjpg.jpg" group-title="CINE PRIMIUM",LA | FOX
+http://185.134.22.150:8080/jokertv/streaming@2021/38683
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX ACTION" tvg-logo="https://cdn.mitvstatic.com/channels/co_fox-action-oeste_m.png" group-title="CINE PRIMIUM",LA | FOX ACTION
+http://185.134.22.150:8080/jokertv/streaming@2021/38676
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX CINEMA" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-cinema_m.png" group-title="CINE PRIMIUM",LA | FOX CINEMA
+http://185.134.22.150:8080/jokertv/streaming@2021/38677
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX CLASSICS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/FOX-Classic-Logo-01.png" group-title="CINE PRIMIUM",LA | FOX CLASSICS
+http://185.134.22.150:8080/jokertv/streaming@2021/38679
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX COMEDY" tvg-logo="https://d-tm.ppstatic.pl/kadry/76/9d/03211bb07169f7d2c1f357372ee3.1000.jpg" group-title="CINE PRIMIUM",LA | FOX COMEDY
+http://185.134.22.150:8080/jokertv/streaming@2021/38680
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="LA | FOX DEPORTES" tvg-logo="https://www.pngkey.com/png/detail/297-2976406_fox-deportes-fox-sports-australia-logo.png" group-title="CINE PRIMIUM",LA | FOX DEPORTES
+http://185.134.22.150:8080/jokertv/streaming@2021/38681
+#EXTINF:-1 tvg-id="STARFUN.co" tvg-name="LA | FOX FAMILY" tvg-logo="https://www.pikpng.com/pngl/m/122-1229359_discovery-family-logosvg-wikimedia-commons-fox-family-tv.png" group-title="CINE PRIMIUM",LA | FOX FAMILY
+http://185.134.22.150:8080/jokertv/streaming@2021/38682
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX LIFE" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/11/LOGO-FOX-Life.jpg" group-title="CINE PRIMIUM",LA | FOX LIFE
+http://185.134.22.150:8080/jokertv/streaming@2021/38684
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX MOVIES" tvg-logo="https://www.pikpng.com/pngl/m/48-484785_star-movies-logo-png-pluspng-fox-movies-logo.png" group-title="CINE PRIMIUM",LA | FOX MOVIES
+http://185.134.22.150:8080/jokertv/streaming@2021/38686
+#EXTINF:-1 tvg-id="FoxNewsChannel.br" tvg-name="LA | FOX NEWS" tvg-logo="https://i.ya-webdesign.com/images/fox-news-logo-png-6.png" group-title="CINE PRIMIUM",LA | FOX NEWS
+http://185.134.22.150:8080/jokertv/streaming@2021/38687
+#EXTINF:-1 tvg-id="" tvg-name="LA | FOX SERIES" tvg-logo="https://www.pngitem.com/pimgs/m/436-4360507_fox-series-logo-jpg-hd-png-download.png" group-title="CINE PRIMIUM",LA | FOX SERIES
+http://185.134.22.150:8080/jokertv/streaming@2021/38695
+#EXTINF:-1 tvg-id="" tvg-name="LA | DISCOVERY CHANNEL" tvg-logo="https://i.pinimg.com/originals/d1/60/9b/d1609bafd67a9eb5ac103a31da889098.png" group-title="CINE PRIMIUM",LA | DISCOVERY CHANNEL
+http://185.134.22.150:8080/jokertv/streaming@2021/38641
+#EXTINF:-1 tvg-id="DiscoveryCivilization.mx" tvg-name="LA | DISCOVERY CIVILIZATION" tvg-logo="https://png.pngitem.com/pimgs/s/2-25083_discovery-civilization-channel-logo-hd-png-download.png" group-title="CINE PRIMIUM",LA | DISCOVERY CIVILIZATION
+http://185.134.22.150:8080/jokertv/streaming@2021/38642
+#EXTINF:-1 tvg-id="" tvg-name="LA | DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Discovery_h%26h.png" group-title="CINE PRIMIUM",LA | DISCOVERY H&H
+http://185.134.22.150:8080/jokertv/streaming@2021/38643
+#EXTINF:-1 tvg-id="" tvg-name="LA | DISCOVERY KIDS" tvg-logo="https://seeklogo.com/images/D/Discovery_Kids-logo-2092D5CBE5-seeklogo.com.png" group-title="CINE PRIMIUM",LA | DISCOVERY KIDS
+http://185.134.22.150:8080/jokertv/streaming@2021/38644
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="LA | DISCOVERY SCIENCE" tvg-logo="https://www.pngitem.com/pimgs/m/302-3028784_science-channel-logo-png-discovery-science-channel-logo.png" group-title="CINE PRIMIUM",LA | DISCOVERY SCIENCE
+http://185.134.22.150:8080/jokertv/streaming@2021/38645
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="LA | DISCOVERY THEATER" tvg-logo="https://cdn.mitvstatic.com/channels/hn_discovery-hd-theater_m.png" group-title="CINE PRIMIUM",LA | DISCOVERY THEATER
+http://185.134.22.150:8080/jokertv/streaming@2021/38646
+#EXTINF:-1 tvg-id="DiscoveryTurbo.co" tvg-name="LA | DISCOVERY TURBO" tvg-logo="https://www.passionateinmarketing.com/wp-content/uploads/2014/12/discovery.jpg" group-title="CINE PRIMIUM",LA | DISCOVERY TURBO
+http://185.134.22.150:8080/jokertv/streaming@2021/38648
+#EXTINF:-1 tvg-id="" tvg-name="LA | DISCOVERY WORLD" tvg-logo="https://www.kindpng.com/picc/m/96-966414_world-discovery-hd-logo-png-discovery-world-logos.png" group-title="CINE PRIMIUM",LA | DISCOVERY WORLD
+http://185.134.22.150:8080/jokertv/streaming@2021/38649
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="LA | DISNEY" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2014/05/disney_channel_logo_a_l.jpg" group-title="CINE PRIMIUM",LA | DISNEY
+http://185.134.22.150:8080/jokertv/streaming@2021/38650
+#EXTINF:-1 tvg-id="DISNEYJR(src1).es" tvg-name="LA | DISNEY JR" tvg-logo="https://www.pngitem.com/pimgs/m/34-345473_welcome-to-disney-s-media-kit-disney-junior.png" group-title="CINE PRIMIUM",LA | DISNEY JR
+http://185.134.22.150:8080/jokertv/streaming@2021/38651
+#EXTINF:-1 tvg-id="" tvg-name="LA | DISNEY XD" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/disney-xd-logo.png" group-title="CINE PRIMIUM",LA | DISNEY XD
+http://185.134.22.150:8080/jokertv/streaming@2021/38652
+
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="LA | CINEMAX" tvg-logo="https://cdn1-www.comingsoon.net/assets/uploads/2017/10/Cinemax.jpg" group-title="CINE PRIMIUM",LA | CINEMAX
+http://185.134.22.150:8080/jokertv/streaming@2021/38604
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="LA | CARTOON NETWORK" tvg-logo="https://i.pinimg.com/originals/9a/fd/2f/9afd2fd04efbc029d29108b02410ad0e.gif" group-title="CINE PRIMIUM",LA | CARTOON NETWORK
+http://185.134.22.150:8080/jokertv/streaming@2021/38573
+#EXTINF:-1 tvg-id="" tvg-name="LA | CDF PREMIUM" tvg-logo="https://www.chilenotas.com/img/cdf.png" group-title="CINE PRIMIUM",LA | CDF PREMIUM
+http://185.134.22.150:8080/jokertv/streaming@2021/38575
+#EXTINF:-1 tvg-id="Cinecanal.co" tvg-name="LA | CINE CANAL" tvg-logo="https://www.cablefuturo.com/images/portfolio/recent/cinecanal.png" group-title="CINE PRIMIUM",LA | CINE CANAL
+http://185.134.22.150:8080/jokertv/streaming@2021/38577
+#EXTINF:-1 tvg-id="AXN.co" tvg-name="LA | AXN" tvg-logo="https://www.chillglobal.com/images/channels/70-axn-1432161537.jpg" group-title="CINE PRIMIUM",LA | AXN
+http://185.134.22.150:8080/jokertv/streaming@2021/38536
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="LA | A&E" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL._SY355_.png" group-title="CINE PRIMIUM",LA | A&E
+http://185.134.22.150:8080/jokertv/streaming@2021/38527
+#EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="LA | ACTION MAX" tvg-logo="https://wtcks.com/images/channels/logos/actionmax.png" group-title="CINE PRIMIUM",LA | ACTION MAX
+http://185.134.22.150:8080/jokertv/streaming@2021/38528
+#EXTINF:-1 tvg-id="" tvg-name="LA | AMC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CINE PRIMIUM",LA | AMC
+http://185.134.22.150:8080/jokertv/streaming@2021/38673
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES | TNT" tvg-logo="https://blog.canaltnt.es/wp-content/themes/simple-bootstrap-child/images/logo.png" group-title="CINE PRIMIUM",ES | TNT
+http://185.134.22.150:8080/jokertv/streaming@2021/36417
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES | NAT GEO" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/National-Geographic-Logo.png" group-title="CINE PRIMIUM",ES | NAT GEO
+http://185.134.22.150:8080/jokertv/streaming@2021/36488
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES | NAT GEO WILD" tvg-logo="https://d2kl333iheywy2.cloudfront.net/assets/barkfest/natgeowild_logo-fafac2c51adbdd565d74cae282df0874.png" group-title="CINE PRIMIUM",ES | NAT GEO WILD
+http://185.134.22.150:8080/jokertv/streaming@2021/36489
+#EXTINF:-1 tvg-id="neox.es" tvg-name="ES | NEOX" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/neox-tv-logo-vector.png" group-title="CINE PRIMIUM",ES | NEOX
+http://185.134.22.150:8080/jokertv/streaming@2021/36398
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="ES | NICK JR." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="CINE PRIMIUM",ES | NICK JR.
+http://185.134.22.150:8080/jokertv/streaming@2021/36520
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES | NICKELODEON" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-schweiz-logo-png-14.png" group-title="CINE PRIMIUM",ES | NICKELODEON
+http://185.134.22.150:8080/jokertv/streaming@2021/36518
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES | PARAMOUNT" tvg-logo="https://www.pngkit.com/png/detail/335-3357324_dish-network-paramount-network-paramount-network-logo.png" group-title="CINE PRIMIUM",ES | PARAMOUNT
+http://185.134.22.150:8080/jokertv/streaming@2021/36577
+#EXTINF:-1 tvg-id="ESBA2212A" tvg-name="ES | LOVE NATURE" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/23/ESBA22000102A_20210811T022018.png" group-title="CINE PRIMIUM",ES | LOVE NATURE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/playlist.m3u8?ads.did%3D%7BPSID%7D%26ads.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.tc_string%3D%7BTC_STRING%7D%26ads.coppa%3D0
+
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="ES | FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="CINE PRIMIUM",ES | FOX LIFE
+http://185.134.22.150:8080/jokertv/streaming@2021/36431
+#EXTINF:-1 tvg-id="" tvg-name="ES | FOX" tvg-logo="https://banner2.cleanpng.com/20180712/zhq/kisspng-fox-broadcasting-company-television-channel-fox-ne-fox-5b46e72b42b032.5298644215313733552732.jpg" group-title="CINE PRIMIUM",ES | FOX
+http://185.134.22.150:8080/jokertv/streaming@2021/36429
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES | DISCOVERY CHANNEL" tvg-logo="https://img2.freepng.es/20180412/cxq/kisspng-discovery-channel-starz-encore-television-show-tel-channel-5acf111a4fe0e8.0118919715235197703272.jpg" group-title="CINE PRIMIUM",ES | DISCOVERY CHANNEL
+http://185.134.22.150:8080/jokertv/streaming@2021/36492
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES | DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Disney_Channel_Germany_Logo_2014.png/800px-Disney_Channel_Germany_Logo_2014.png" group-title="CINE PRIMIUM",ES | DISNEY CHANNEL
+http://185.134.22.150:8080/jokertv/streaming@2021/36513
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="ES | DISNEY JUNIOR" tvg-logo="https://www.pngitem.com/pimgs/m/83-835216_disney-junior-png-junior-disney-ai-logo-transparent.png" group-title="CINE PRIMIUM",ES | DISNEY JUNIOR
+http://185.134.22.150:8080/jokertv/streaming@2021/36516
+#EXTINF:-1 tvg-id="disneyxd.es" tvg-name="ES | DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/725px-Disney_XD_-_2015.svg.png" group-title="CINE PRIMIUM",ES | DISNEY XD
+http://185.134.22.150:8080/jokertv/streaming@2021/39277
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES | DIVINITY" tvg-logo="http://web24.live:25461/images/94a9a5dcad692a3f4ca1d6b18bb33fd4.png" group-title="CINE PRIMIUM",ES | DIVINITY
+http://185.134.22.150:8080/jokertv/streaming@2021/36549
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES | DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1200px-DKiss.svg.png" group-title="CINE PRIMIUM",ES | DKISS
+http://185.134.22.150:8080/jokertv/streaming@2021/36503
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES | DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="CINE PRIMIUM",ES | DMAX
+http://185.134.22.150:8080/jokertv/streaming@2021/36575
