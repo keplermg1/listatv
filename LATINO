@@ -1,0 +1,564 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES | MOVISTAR DEPORTES" tvg-logo="https://www.mercadonegro.pe/wp-content/uploads/2017/05/movistar-deportes.png" group-title="DEPORTES",ES | MOVISTAR DEPORTES
+http://185.134.22.150:8080/jokertv/streaming@2021/36590
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="ES | MOVISTAR DEPORTES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Deportes_1.svg/1024px-Movistar_Deportes_1.svg.png" group-title="DEPORTES",ES | MOVISTAR DEPORTES 1
+http://185.134.22.150:8080/jokertv/streaming@2021/36459
+#EXTINF:-1 tvg-id="Peru|| Movistar Deportes" tvg-name="PE | MOVISTAR DEPORTES" tvg-logo="https://yt3.ggpht.com/a/AGF-l78sfeqzL30fHGIfxlTwY4jL4PG8lIZAJ2YZVQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="DEPORTES",PE | MOVISTAR DEPORTES
+http://185.134.22.150:8080/jokertv/streaming@2021/53733
+#EXTINF:-1 tvg-id="Peru|| Movistar Deportes" tvg-name="PE | MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_(Peru)_-_2017_logo.png" group-title="DEPORTES",PE | MOVISTAR PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/53734
+#EXTINF:-1 tvg-id="Peru|| Movistar Plus" tvg-name="PE | MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_(Peru)_-_2017_logo.png" group-title="DEPORTES",PE | MOVISTAR PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/53735
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD- | Peru" tvg-name="PE | GOL PERU" tvg-logo="https://3.bp.blogspot.com/-BhA7hQ1P7Dc/W8ehyUHPv3I/AAAAAAAABIM/rlU0N-IejoAKmP1pWnqrCOlecpTb8Rn0QCLcBGAs/s1600/logo-Gol-Peru.png" group-title="DEPORTES",PE | GOL PERU
+http://185.134.22.150:8080/jokertv/streaming@2021/53722
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD | Peru" tvg-name="PE | GOL PERU OPC 1" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES",PE | GOL PERU OPC 1
+http://185.134.22.150:8080/jokertv/streaming@2021/53723
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD | Peru" tvg-name="PE | GOL PERU OPC 2" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES",PE | GOL PERU OPC 2
+http://185.134.22.150:8080/jokertv/streaming@2021/53724
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD | Peru" tvg-name="PE | GOL PERU OPC 3" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES",PE | GOL PERU OPC 3
+http://185.134.22.150:8080/jokertv/streaming@2021/53725
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD- | Peru" tvg-name="PE | GOL PERU OPC 4" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES",PE | GOL PERU OPC 4
+http://185.134.22.150:8080/jokertv/streaming@2021/53726
+#EXTINF:-1 tvg-id="Dep|| Gol Peru SD- | Peru" tvg-name="PE | GOL PERU VIP" tvg-logo="http://www.brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES",PE | GOL PERU VIP
+http://185.134.22.150:8080/jokertv/streaming@2021/53727
+#EXTINF:-1 tvg-id="" tvg-name="LA | DIRECTV SPORT 1" tvg-logo="https://www.directv.com.ve/img/directv-logo-fb-150x150.jpg" group-title="DEPORTES",LA | DIRECTV SPORT 1
+http://185.134.22.150:8080/jokertv/streaming@2021/38634
+#EXTINF:-1 tvg-id="DIRECTVSports2.ar" tvg-name="LA | DIRECTV SPORT 2" tvg-logo="https://www.directv.com.ve/img/directv-logo-fb-150x150.jpg" group-title="DEPORTES",LA | DIRECTV SPORT 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38635
+#EXTINF:-1 tvg-id="" tvg-name="LA | DIRECTV SPORT PLUS" tvg-logo="https://www.directv.com.ve/img/directv-logo-fb-150x150.jpg" group-title="DEPORTES",LA | DIRECTV SPORT PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38638
+#EXTINF:-1 tvg-id="GOL(src1).es" tvg-name="LA | (PER) GOL PERU" tvg-logo="https://www.dropbox.com/s/qtqj7k5l8ykhcy2/golperu.png?dl=1" group-title="DEPORTES",LA | (PER) GOL PERU
+http://185.134.22.150:8080/jokertv/streaming@2021/40154
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="MX | ESPN" tvg-logo="https://www.dropbox.com/s/bwa3ue8cdy545o7/espn_us.png?dl=1" group-title="DEPORTES",MX | ESPN
+http://185.134.22.150:8080/jokertv/streaming@2021/38379
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="MX | ESPN 2" tvg-logo="https://www.dropbox.com/s/wr3oh3jvwsw63ow/espn_2.png?dl=1" group-title="DEPORTES",MX | ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38377
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="MX | ESPN 3" tvg-logo="https://www.dropbox.com/s/uzdb0wnormt8j2t/espn_3_lam.png?dl=1" group-title="DEPORTES",MX | ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38378
+#EXTINF:-1 tvg-id="" tvg-name="MX | ESPN PLUS" tvg-logo="https://www.dropbox.com/s/ymd3bl5o9c9tjs9/espn_us_plus.png?dl=1" group-title="DEPORTES",MX | ESPN PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38381
+#EXTINF:-1 tvg-id="ESPNU(English).mx" tvg-name="MX | ESPN U" tvg-logo="https://www.dropbox.com/s/majqokveprol8kb/espn_u.png?dl=1" group-title="DEPORTES",MX | ESPN U
+http://185.134.22.150:8080/jokertv/streaming@2021/38382
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS" tvg-logo="http://mylatinotv.com:8080/images/mexico/win.png" group-title="DEPORTES",CO | WIN SPORTS
+http://185.134.22.150:8080/jokertv/streaming@2021/38062
+#EXTINF:-1 tvg-id="" tvg-name="CO | WIN SPORTS+" tvg-logo="https://media.metrolatam.com/2019/12/23/capturadepantall-f0f54bcde7fc1471047f7b0e52fe8147-1200x600.jpg" group-title="DEPORTES",CO | WIN SPORTS+
+http://185.134.22.150:8080/jokertv/streaming@2021/38140
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX SOCCER PLUS" tvg-logo="https://panel.tvmasplus.com/Genesis/Video/Spa/Image/tv/_Fox_Soccer_Plus.jpg" group-title="DEPORTES",CO | FOX SOCCER PLUS
+http://185.134.22.150:8080/jokertv/streaming@2021/38137
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX SPORTS 1" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548942903997-Imagen.png" group-title="DEPORTES",CO | FOX SPORTS 1
+http://185.134.22.150:8080/jokertv/streaming@2021/38133
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX SPORTS 2" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529361811475-Imagen.png" group-title="DEPORTES",CO | FOX SPORTS 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38132
+#EXTINF:-1 tvg-id="" tvg-name="CO | FOX SPORTS 3" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/33a9a5e1b0d1778d8d5007277f5e0c74.jpg" group-title="DEPORTES",CO | FOX SPORTS 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38057
+#EXTINF:-1 tvg-id="" tvg-name="CO | ESPN" tvg-logo="" group-title="COLOMBIA",CO | ESPN
+http://185.134.22.150:8080/jokertv/streaming@2021/60474DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="CO | ESPN 2" tvg-logo="http://images.mi.tv/channels/ar_espn-2_m.png" group-title="DEPORTES",CO | ESPN 2
+http://185.134.22.150:8080/jokertv/streaming@2021/38138
+#EXTINF:-1 tvg-id="" tvg-name="CO | ESPN 3" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529362343903-Imagen.png" group-title="DEPORTES",CO | ESPN 3
+http://185.134.22.150:8080/jokertv/streaming@2021/38054
+º<
+#EXTINF:-1 tvg-id="GOL(src1).es" tvg-name="LA | (PER) GOL PERU" tvg-logo="https://www.dropbox.com/s/qtqj7k5l8ykhcy2/golperu.png?dl=1" group-title="LATINO",LA | (PER) GOL PERU
+http://185.134.22.150:8080/jokertv/streaming@2021/40154
+
+#EXTINF:-1,LATINO : A&E
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56380
+#EXTINF:-1,LATINO : ADN 40
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56381
+#EXTINF:-1,LATINO : AMC
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56382
+#EXTINF:-1,LATINO : AMERICA TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56383
+#EXTINF:-1,LATINO : ANIMAL PLANET
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56384
+#EXTINF:-1,LATINO : ANTENA 3
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56385
+#EXTINF:-1,LATINO : ASPIRE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56386
+#EXTINF:-1,LATINO : AXN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56387
+#EXTINF:-1,LATINO : AZ CORAZON
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56389
+#EXTINF:-1,LATINO : AZTECA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56390
+#EXTINF:-1,LATINO : AZTECA 7
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/128932
+#EXTINF:-1,LATINO : AZTECA UNO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56391
+#EXTINF:-1,LATINO : BABY TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56392
+#EXTINF:-1,LATINO : BANDAMAX
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56393
+#EXTINF:-1,LATINO : BLOOMBERG
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56394
+#EXTINF:-1,LATINO : BOOMERANG
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56395
+#EXTINF:-1,LATINO : CANAL 22 INTERNACIONAL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56396
+#EXTINF:-1,LATINO : CANAL DE LAS ESTRELLAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56398
+#EXTINF:-1,LATINO : CARACOL TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56399
+#EXTINF:-1,LATINO : CARTOON NETWORK
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56400
+#EXTINF:-1,LATINO : CENTRO AMERICA TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56401
+#EXTINF:-1,LATINO : CGTN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56402
+#EXTINF:-1,LATINO : CINE ESTELAR
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56403
+#EXTINF:-1,LATINO : CINE MEXICANO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56404
+#EXTINF:-1,LATINO : CINE NOSTALGIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56405
+#EXTINF:-1,LATINO : CINE SONY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56406
+#EXTINF:-1,LATINO : CINEMAX
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56407
+#EXTINF:-1,LATINO : CNN EN ESPANOL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56408
+#EXTINF:-1,LATINO : CNN INTERNACIONAL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56409
+#EXTINF:-1,LATINO : COMEDY CENTRAL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56410
+#EXTINF:-1,LATINO : DE PELICULA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56411
+#EXTINF:-1,LATINO : DE PELICULA CLASICO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56412
+#EXTINF:-1,LATINO : DESTINATION AMERICA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56413
+#EXTINF:-1,LATINO : DIGITAL QUINCE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56414
+#EXTINF:-1,LATINO : DIRECTTV SPORT
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56415
+#EXTINF:-1,LATINO : DIRECTTV SPORT 1
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56416
+#EXTINF:-1,LATINO : DIRECTTV SPORT 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56417
+#EXTINF:-1,LATINO : DISCOVERY CHANNEL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56418
+#EXTINF:-1,LATINO : DISCOVERY EN ESPANOL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56419
+#EXTINF:-1,LATINO : DISCOVERY FAMILIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56420
+#EXTINF:-1,LATINO : DISCOVERY HOME & HEALTH
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56421
+#EXTINF:-1,LATINO : DISCOVERY ID
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56422
+#EXTINF:-1,LATINO : DISCOVERY KIDS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56423
+#EXTINF:-1,LATINO : DISCOVERY SCIENCE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56424
+#EXTINF:-1,LATINO : DISCOVERY THEATER
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56425
+#EXTINF:-1,LATINO : DISCOVERY TURBO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56426
+#EXTINF:-1,LATINO : DISCOVERY WORLD
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56427
+#EXTINF:-1,LATINO : DISNEY CHANNEL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56428
+#EXTINF:-1,LATINO : DISNEY JUNIOR
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56429
+#EXTINF:-1,LATINO : DISNEY XD
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56430
+#EXTINF:-1,LATINO : DISTRITO COMEDIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56431
+#EXTINF:-1,LATINO : E!
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56432
+#EXTINF:-1,LATINO : ECUADOR TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56433
+#EXTINF:-1,LATINO : ECUAVISA INTERNACIONAL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56434
+#EXTINF:-1,LATINO : EL GOURMET
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56435
+#EXTINF:-1,LATINO : ENLACE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56436
+#EXTINF:-1,LATINO : ESPN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56437
+#EXTINF:-1,LATINO : ESPN 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56438
+#EXTINF:-1,LATINO : ESPN 3
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56439
+#EXTINF:-1,LATINO : ESPN DEPORTES
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56440
+#EXTINF:-1,LATINO : ESTRELLA TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56441
+#EXTINF:-1,LATINO : FM
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56442
+#EXTINF:-1,LATINO : FOOD NETWORK
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56443
+#EXTINF:-1,LATINO : FORO TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56444
+#EXTINF:-1,LATINO : FOX
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56445
+#EXTINF:-1,LATINO : FOX ACTION
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56446
+#EXTINF:-1,LATINO : FOX CINEMA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56447
+#EXTINF:-1,LATINO : FOX COMEDY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56449
+#EXTINF:-1,LATINO : FOX DEPORTES
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56450
+#EXTINF:-1,LATINO : FOX FAMILY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56451
+#EXTINF:-1,LATINO : FOX MOVIES
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56452
+#EXTINF:-1,LATINO : FOX SERIES
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56453
+#EXTINF:-1,LATINO : FOX SPORTS 1
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56454
+#EXTINF:-1,LATINO : FOX SPORTS 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56455
+#EXTINF:-1,LATINO : FOX SPORTS 3
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56456
+#EXTINF:-1,LATINO : FOX SPORTS PREMIUM
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56457
+#EXTINF:-1,LATINO : FX
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56458
+#EXTINF:-1,LATINO : FXM
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56459
+#EXTINF:-1,LATINO : GALAVISION
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56460
+#EXTINF:-1,LATINO : GARAGE TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56461
+#EXTINF:-1,LATINO : GLITZ
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56462
+#EXTINF:-1,LATINO : GOL TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56463
+#EXTINF:-1,LATINO : GOLDEN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56464
+#EXTINF:-1,LATINO : GOLDEN EDGE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56465
+#EXTINF:-1,LATINO : GSN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56466
+#EXTINF:-1,LATINO : GUATEVISION
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56467
+#EXTINF:-1,LATINO : HBO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56468
+#EXTINF:-1,LATINO : HBO 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56469
+#EXTINF:-1,LATINO : HBO FAMILY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56470
+#EXTINF:-1,LATINO : HBO LATINO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56471
+#EXTINF:-1,LATINO : HBO SIGNATURE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56473
+#EXTINF:-1,LATINO : HISTORY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56474
+#EXTINF:-1,LATINO : HISTORY 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56475
+#EXTINF:-1,LATINO : HISTORY EN ESPANOL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56476
+#EXTINF:-1,LATINO : HITN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56477
+#EXTINF:-1,LATINO : HLN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56478
+#EXTINF:-1,LATINO : HOLA TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56479
+#EXTINF:-1,LATINO : LAS ESTRELLAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56480
+#EXTINF:-1,LATINO : LIFETIME
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56481
+#EXTINF:-1,LATINO : MAS CHIC
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56482
+#EXTINF:-1,LATINO : MAX PRIME
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56483
+#EXTINF:-1,LATINO : MAX UP
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56484
+#EXTINF:-1,LATINO : MEGATV PR
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/193925
+#EXTINF:-1,LATINO : MILENIO TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56485
+#EXTINF:-1,LATINO : MOVIEPLEX
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56487
+#EXTINF:-1,LATINO : MULTIMEDIOS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56489
+#EXTINF:-1,LATINO : NAT GEO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56490
+#EXTINF:-1,LATINO : NAT GEO MUNDO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56491
+#EXTINF:-1,LATINO : NAT GEO WILD
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56492
+#EXTINF:-1,LATINO : NBC UNIVERSO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56493
+#EXTINF:-1,LATINO : NEXT TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56494
+#EXTINF:-1,LATINO : NICK 2
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56495
+#EXTINF:-1,LATINO : NICK JR
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56496
+#EXTINF:-1,LATINO : NICK TOONS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56497
+#EXTINF:-1,LATINO : NICKELODEON
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56498
+#EXTINF:-1,LATINO : NTN24
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56500
+#EXTINF:-1,LATINO : NUESTRA TELE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56501
+#EXTINF:-1,LATINO : PARAMOUNT CHANNEL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56503
+#EXTINF:-1,LATINO : PASIONES
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56504
+#EXTINF:-1,LATINO : PERU MAGICO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56505
+#EXTINF:-1,LATINO : RITMOSON
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56508
+#EXTINF:-1,LATINO : RTV 7
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56509
+#EXTINF:-1,LATINO : SHOWTIME
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56510
+#EXTINF:-1,LATINO : SHOWTIME BEYOND
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56511
+#EXTINF:-1,LATINO : SHOWTIME EAST
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56512
+#EXTINF:-1,LATINO : SHOWTIME WEST
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56513
+#EXTINF:-1,LATINO : SONY CHANNEL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56514
+#EXTINF:-1,LATINO : SPACE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56515
+#EXTINF:-1,LATINO : STARZ
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56516
+#EXTINF:-1,LATINO : STARZ COMEDY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56517
+#EXTINF:-1,LATINO : STARZ EAST
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56518
+#EXTINF:-1,LATINO : STARZ ENCORE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56519
+#EXTINF:-1,LATINO : STARZ ENCORE ACTION
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56520
+#EXTINF:-1,LATINO : STARZ ENCORE CLASSIC
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56521
+#EXTINF:-1,LATINO : STARZ ENCORE ESPAÑOL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56522
+#EXTINF:-1,LATINO : STARZ ENCORE FAMILY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56523
+#EXTINF:-1,LATINO : STARZ ENCORE SUSPENSE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56524
+#EXTINF:-1,LATINO : STARZ ENCORE WESTERN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56525
+#EXTINF:-1,LATINO : STARZ WEST
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56526
+#EXTINF:-1,LATINO : STUDIO UNIVERSAL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56527
+#EXTINF:-1,LATINO : SUR PERU
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56528
+#EXTINF:-1,LATINO : SYFY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56529
+#EXTINF:-1,LATINO : TBS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56530
+#EXTINF:-1,LATINO : TCM
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56531
+#EXTINF:-1,LATINO : TELEAMAZONAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56532
+#EXTINF:-1,LATINO : TELECENTRO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56533
+#EXTINF:-1,LATINO : TELEFE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56534
+#EXTINF:-1,LATINO : TELEMUNDO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56535
+#EXTINF:-1,LATINO : TELEMUNDO 2 (WKAQ) Puerto Rico
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/222136
+#EXTINF:-1,LATINO : TELEMUNDO INTERNATIONAL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56536
+#EXTINF:-1,LATINO : TELEMUNDO PR
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/193923
+#EXTINF:-1,LATINO : TELEMUNDO WEST
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56537
+#EXTINF:-1,LATINO : TELENOVELAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56538
+#EXTINF:-1,LATINO : TELEPACIFICO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56539
+#EXTINF:-1,LATINO : TELESISTEMA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56540
+#EXTINF:-1,LATINO : TELESUR
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56541
+#EXTINF:-1,LATINO : TELETICA 7
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56542
+#EXTINF:-1,LATINO : TLC
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56543
+#EXTINF:-1,LATINO : TNT
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56544
+#EXTINF:-1,LATINO : TNT SERIES
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56545
+#EXTINF:-1,LATINO : TOONCAST
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56546
+#EXTINF:-1,LATINO : TR3S
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56547
+#EXTINF:-1,LATINO : TRU TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56548
+#EXTINF:-1,LATINO : TUDN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56549
+#EXTINF:-1,LATINO : TV CHILE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56550
+#EXTINF:-1,LATINO : TV ONE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56551
+#EXTINF:-1,LATINO : TVE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56552
+#EXTINF:-1,LATINO : TVN
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56553
+#EXTINF:-1,LATINO : TYC SPORTS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56554
+#EXTINF:-1,LATINO : UNIMAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56555
+#EXTINF:-1,LATINO : UNIMAS EAST
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56556
+#EXTINF:-1,LATINO : UNIMAS WEST
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56557
+#EXTINF:-1,LATINO : UNIVERSAL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56558
+#EXTINF:-1,LATINO : UNIVERSO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56559
+#EXTINF:-1,LATINO : UNIVISION (KUVN) DALLAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56561
+#EXTINF:-1,LATINO : UNIVISION (WLTV) FORT LAUDERDALE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56562
+#EXTINF:-1,LATINO : UNIVISION DEPORTES
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56563
+#EXTINF:-1,LATINO : UNIVISION EAST
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56564
+#EXTINF:-1,LATINO : UNIVISION PR
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/193924
+#EXTINF:-1,LATINO : UNIVISION TLNOVELAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56566
+#EXTINF:-1,LATINO : UNIVISION WEST
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56567
+#EXTINF:-1,LATINO : VEPLUS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56569
+#EXTINF:-1,LATINO : VH1
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56570
+#EXTINF:-1,LATINO : VH1 CLASSIC
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56571
+#EXTINF:-1,LATINO : VIDEOROLA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56572
+#EXTINF:-1,LATINO : VIENDOMOVIES
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56573
+#EXTINF:-1,LATINO : VME
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56574
+#EXTINF:-1,LATINO : WAPA AMERICA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56576
+#EXTINF:-1,LATINO : WE TV
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56578
+#EXTINF:-1,LATINO : WIN SPORTS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56579
+#EXTINF:-1,LATINO : ZOOMOO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/56580
+#EXTINF:-1,LATINO: TELEMUNDO (KASA) SANTA FE NEW MEXICO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57415
+#EXTINF:-1,LATINO: TELEMUNDO (KBLR) PARADISE NEVADA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57416
+#EXTINF:-1,LATINO: TELEMUNDO (KCSO) SACRAMENTO CALIFORNIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57417
+#EXTINF:-1,LATINO: TELEMUNDO (KDEN) LONGMONT COLORADO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57418
+#EXTINF:-1,LATINO: TELEMUNDO (KFBI) MEDFORD OREGON
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57419
+#EXTINF:-1,LATINO: TELEMUNDO (KFDY) LINCOLN NEBRASKA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57420
+#EXTINF:-1,LATINO: TELEMUNDO (KGLA) HAMMOND LOUISIANA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57421
+#EXTINF:-1,LATINO: TELEMUNDO (KHRR) TUCSON ARIZONA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57422
+#EXTINF:-1,LATINO: TELEMUNDO (KIFI) EAST IDAHO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/217626
+#EXTINF:-1,LATINO: TELEMUNDO (KNSO) MERCED CALIFORNIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57423
+#EXTINF:-1,LATINO: TELEMUNDO (KSTS) SAN JOSE CALIFORNIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57424
+#EXTINF:-1,LATINO: TELEMUNDO (KTAZ) PHOENIX ARIZONA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57425
+#EXTINF:-1,LATINO: TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57426
+#EXTINF:-1,LATINO: TELEMUNDO (KTMD) GALVESTON TEXAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57427
+#EXTINF:-1,LATINO: TELEMUNDO (KTMW) SALT LAKE CITY UTAH
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57428
+#EXTINF:-1,LATINO: TELEMUNDO (KTUZ) SHAWNEE OKLAHOMA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57429
+#EXTINF:-1,LATINO: TELEMUNDO (KUTU) TULSA OKLAHOMA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57430
+#EXTINF:-1,LATINO: TELEMUNDO (KVDA) SAN ANTONIO TEXAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57431
+#EXTINF:-1,LATINO: TELEMUNDO (KVEA) CORONA CALIFORNIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57432
+#EXTINF:-1,LATINO: TELEMUNDO (KXTQ) LUBBOCK TEXAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57433
+#EXTINF:-1,LATINO: TELEMUNDO (KXTX) DALLAS TEXAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57434
+#EXTINF:-1,LATINO: TELEMUNDO (WKTB) NORCROSS GEORGIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57435
+#EXTINF:-1,LATINO: TELEMUNDO (WNEU) BOSTON
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/217627
+#EXTINF:-1,LATINO: TELEMUNDO (WNEU) MERRIMACK NEW HAMPSHIRE
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57436
+#EXTINF:-1,LATINO: TELEMUNDO (WNJU) 47 NEW YORK
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57437
+#EXTINF:-1,LATINO: TELEMUNDO (WNJU) LINDEN NEW JERSEY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57438
+#EXTINF:-1,LATINO: TELEMUNDO (WRDM) HARTFORD CONNECTICUT
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57439
+#EXTINF:-1,LATINO: TELEMUNDO (WRMD) TAMPA FLORIDA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57440
+#EXTINF:-1,LATINO: TELEMUNDO (WSCV) FORT LAUDERDALE FLORIDA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57441
+#EXTINF:-1,LATINO: TELEMUNDO (WSNS) CHICAGO ILLINOIS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57442
+#EXTINF:-1,LATINO: TELEMUNDO (WTMO) ORLANDO FLORIDA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57443
+#EXTINF:-1,LATINO: TELEMUNDO (WWDT) NAPLES FLORIDA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57444
+#EXTINF:-1,LATINO: TELEMUNDO (WWSI) MOUNT LAUREL PENNSYLVANIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57445
+#EXTINF:-1,LATINO: TELEMUNDO (WZDC) WASHINGTON DC
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57446
+#EXTINF:-1,LATINO: TELEMUNDO 47 (KTMD) HOUSTON TEXAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/112303
+#EXTINF:-1,LATINO: UNIMAS (KFSF) VALLEJO CALIFORNIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54751
+#EXTINF:-1,LATINO: UNIMAS (KFTH) ALVIN TEXAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54752
+#EXTINF:-1,LATINO: UNIMAS (KSTR) IRVING TEXAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54753
+#EXTINF:-1,LATINO: UNIMAS (KTFO) AUSTIN TEXAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54754
+#EXTINF:-1,LATINO: UNIMAS (WAMI) HOLLYWOOD FLORIDA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54755
+#EXTINF:-1,LATINO: UNIMAS (WFPA) PHILADELPHIA PENNSYLVANIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54756
+#EXTINF:-1,LATINO: UNIMAS (WFUT) NEWARK NEW JERSEY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54757
+#EXTINF:-1,LATINO: UNIVISION (KAKW) KILLEEN TEXAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54758
+#EXTINF:-1,LATINO: UNIVISION (KDTV) SAN FRANCISCO CALIFORNIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54759
+#EXTINF:-1,LATINO: UNIVISION (KFTV) HANFORD CALIFORNIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54760
+#EXTINF:-1,LATINO: UNIVISION (KMEX) LOS ANGELES CALIFORNIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54761
+#EXTINF:-1,LATINO: UNIVISION (KTVW) FLAGSTAFF AZ
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54762
+#EXTINF:-1,LATINO: UNIVISION (KUVE) GREEN VALLEY AZ
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54763
+#EXTINF:-1,LATINO: UNIVISION (KUVN) GARLAND TEXAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54764
+#EXTINF:-1,LATINO: UNIVISION (KUVS) MODESTO CALIFORNIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54765
+#EXTINF:-1,LATINO: UNIVISION (KWEX) SAN ANTONIO TX
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54766
+#EXTINF:-1,LATINO: UNIVISION (KXLN) ROSENBERG TEXAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54767
+#EXTINF:-1,LATINO: UNIVISION (WGBO) CHICAGO IL
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54768
+#EXTINF:-1,LATINO: UNIVISION (WLTV) MIAMI FLORIDA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54769
+#EXTINF:-1,LATINO: UNIVISION (WQHS) CLEVELAND OHIO
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54770
+#EXTINF:-1,LATINO: UNIVISION (WUVG) ATHENS GEORGIA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54771
+#EXTINF:-1,LATINO: UNIVISION (WUVG) ATLANTA
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54772
+#EXTINF:-1,LATINO: UNIVISION (WXTV) PATERSON NEW JERSEY
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/54773
+#EXTINF:-1,LATINO: UNIVISION 45 (KXLN) HOUSTON TEXAS
+http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/112304
